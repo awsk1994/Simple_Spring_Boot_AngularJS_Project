@@ -33,3 +33,6 @@ Coming soon...
 
  - Client:
      - css, bootstrap
+
+ - General:
+     - Tidy up files
