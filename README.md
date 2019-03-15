@@ -27,7 +27,6 @@ Coming soon...
 
 ## Todo:
  - Server:
-     - Logging
      - Multi-threading
      - Performance Opt.
 
