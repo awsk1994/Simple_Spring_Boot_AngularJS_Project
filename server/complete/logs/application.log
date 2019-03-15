@@ -1,0 +1,6 @@
+2019-03-15 12:31:27.413 DEBUG BIL-L-AWONG --- [           main] h.Application                            : Debugging log
+2019-03-15 12:31:27.954  INFO BIL-L-AWONG --- [           main] h.Application                            : Starting Application on BIL-L-AWONG with PID 888 (C:\Users\awong\Desktop\AlexWong\github\Simple_Spring_Boot_AngularJS_Project\server\complete\target\classes started by awong in C:\Users\awong\Desktop\AlexWong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-15 12:31:27.958 DEBUG BIL-L-AWONG --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-15 12:31:27.963  INFO BIL-L-AWONG --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-03-15 12:31:31.128  INFO BIL-L-AWONG --- [           main] h.Application                            : Started Application in 3.603 seconds (JVM running for 8.367)
+2019-03-15 12:31:31.130 DEBUG BIL-L-AWONG --- [           main] h.Application                            : Application started
