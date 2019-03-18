@@ -67,3 +67,8 @@ In the application itself, to do logging:
 ### References:
 https://www.callicoder.com/spring-boot-log4j-2-example/
 https://github.com/callicoder/spring-boot-log4j-2-demo
+
+# TODO:
+
+ - Better logging for API part.
+ 

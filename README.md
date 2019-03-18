@@ -29,6 +29,11 @@ Coming soon...
  - Server:
      - Multi-threading
      - Performance Opt.
+     - Internet API calls:
+	     ws test: http://websocket.org/echo.html
+		free api test to test: https://jsonplaceholder.typicode.com/
+
+
 
  - Client:
      - css, bootstrap
