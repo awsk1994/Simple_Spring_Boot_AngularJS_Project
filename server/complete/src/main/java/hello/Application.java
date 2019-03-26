@@ -18,6 +18,9 @@ public class Application {
         logger.debug("Application Started...");
         SpringApplication.run(Application.class, args);
 
+        APIRequestTester tester = new APIRequestTester("http://example.com");
+        tester.run();
+
         logger.debug("Test Websocket...");
         new WebSocketTester().run();
     };
