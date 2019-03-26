@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc26e194-2139-4a71-9396-19d961357a37" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/complete/src/main/java/hello/JavaxWebSocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/complete/src/main/java/hello/WebSocketTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/complete/logs/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/server/complete/logs/application.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/complete/logs/logging.log" beforeDir="false" afterPath="$PROJECT_DIR$/server/complete/logs/logging.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/complete/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/complete/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/complete/src/main/java/hello/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/complete/src/main/java/hello/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/complete/src/main/java/hello/VadMainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/complete/src/main/java/hello/VadMainController.java" afterDir="false" />
     </list>
     <ignored path="Simple_Spring_Boot_AngularJS_Project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -161,8 +152,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/complete/src/main/java/hello/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="544">
+              <caret line="32" column="64" lean-forward="true" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -170,11 +161,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="796">
-              <caret line="83" column="1" selection-start-line="83" selection-start-column="1" selection-end-line="83" selection-end-column="1" />
+            <state relative-caret-position="745">
+              <caret line="80" column="42" selection-start-line="80" selection-start-column="42" selection-end-line="80" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -194,8 +185,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/complete/src/main/java/hello/WebSocketTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="51" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="51" />
+            <state relative-caret-position="340">
+              <caret line="20" column="6" lean-forward="true" selection-end-line="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -203,11 +194,25 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/complete/src/main/java/hello/APIRequestTester.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" selection-start-line="26" selection-end-line="29" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -217,21 +222,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/complete/src/main/java/hello/HttpResult.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="19" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="19" />
-              <folding>
-                <element signature="e#114#115#0" expanded="true" />
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -272,14 +262,14 @@
       <find>WebSocketTestThree</find>
       <find>HelloClient</find>
       <find>WebSocket</find>
-      <find>WebSocketTest1</find>
       <find>ExampleClient</find>
+      <find>WebSocketTest1</find>
     </findStrings>
     <replaceStrings>
       <replace>//logger</replace>
       <replace>console.log</replace>
-      <replace>System.out.println</replace>
       <replace>WebSocketTestFour</replace>
+      <replace>System.out.println</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -305,14 +295,15 @@
         <option value="$PROJECT_DIR$/server/complete/src/main/java/hello/WebSocketTestFour.java" />
         <option value="$PROJECT_DIR$/server/complete/src/main/java/hello/ProcessWs.java" />
         <option value="$PROJECT_DIR$/server/complete/src/main/java/hello/VadWebSocket.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/server/complete/pom.xml" />
         <option value="$PROJECT_DIR$/server/complete/src/main/java/hello/WebSocket.java" />
         <option value="$PROJECT_DIR$/server/complete/src/main/java/hello/VadMainController.java" />
         <option value="$PROJECT_DIR$/server/complete/src/main/java/hello/ExampleClient.java" />
-        <option value="$PROJECT_DIR$/server/complete/src/main/java/hello/Application.java" />
         <option value="$PROJECT_DIR$/server/complete/src/main/java/hello/JavaxWebSocket.java" />
         <option value="$PROJECT_DIR$/server/complete/src/main/java/hello/WebSocketTester.java" />
+        <option value="$PROJECT_DIR$/server/complete/src/main/java/hello/Application.java" />
+        <option value="$PROJECT_DIR$/server/complete/src/main/java/hello/APIRequestTester.java" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/server/README.md" />
       </list>
     </option>
@@ -437,7 +428,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553639419127" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553641123072" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
@@ -858,16 +849,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/complete/src/main/java/hello/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/complete/src/main/java/hello/VadMainController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -905,25 +886,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server/complete/src/main/java/hello/WebSocketTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="51" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="51" />
+        <state relative-caret-position="340">
+          <caret line="20" column="6" lean-forward="true" selection-end-line="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/README.md">
+    <entry file="file://$PROJECT_DIR$/server/complete/src/main/java/hello/APIRequestTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="796">
-          <caret line="83" column="1" selection-start-line="83" selection-start-column="1" selection-end-line="83" selection-end-column="1" />
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="29" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/complete/src/main/java/hello/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="64" lean-forward="true" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="745">
+          <caret line="80" column="42" selection-start-line="80" selection-start-column="42" selection-end-line="80" selection-end-column="42" />
         </state>
       </provider>
     </entry>

@@ -78,6 +78,8 @@ https://github.com/callicoder/spring-boot-log4j-2-demo
 
 http://github.com/TooTallNate/Java-WebSocket/wiki/Drafts
 
+https://www.baeldung.com/java-http-request
+
 # TODO:
 
  - Better logging for API part.

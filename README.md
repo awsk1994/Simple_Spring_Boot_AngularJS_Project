@@ -33,12 +33,9 @@ Coming soon...
         - Websocket
              - find a websocket js test
              - add logger to websocket
-
-
-		free api test to test: https://jsonplaceholder.typicode.com/
-
-
-
+        - API: Tutorial https://www.baeldung.com/java-http-request
+             - Figure out how to serialize response.
+		     - free api test to test: https://jsonplaceholder.typicode.com/
 
  - Client:
      - css, bootstrap
