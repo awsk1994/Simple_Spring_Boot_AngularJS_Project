@@ -6,7 +6,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-
 public class VadMainController {
 
     private static final String template = "Running Test: %s!";
@@ -19,4 +18,12 @@ public class VadMainController {
         vadMain.run();  // VadMain will run, and finish in 5 seconds.
        return new HttpResult("Done");   // HttpResult object will return the HTTP in the json form of {data: <STATUS>}
     };
+
+    @RequestMapping("/testWs")
+    public HttpResult testWs(){
+        System.out.println("/test Ws | " + System.currentTimeMillis());
+        String URL = "wss://echo.websocket.org";
+        return new HttpResult("Done");   // HttpResult object will return the HTTP in the json form of {data: <STATUS>}
+    };
+
 }

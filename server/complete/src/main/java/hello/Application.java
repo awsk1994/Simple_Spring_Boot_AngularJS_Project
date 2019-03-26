@@ -15,19 +15,20 @@ public class Application {
     private static final Logger logger = LogManager.getLogger(Application.class);
 
     public static void main(String[] args) {
-        logger.debug("Debugging log");
-
+        logger.debug("Application Started...");
         SpringApplication.run(Application.class, args);
-        logger.debug("Application started");
-    }
 
-    // Below is configuration for CORS to work properly. (TODO: More research into this is needed)
+        logger.debug("Test Websocket...");
+        new WebSocketTester().run();
+    };
+
+//     Below is configuration for CORS to work properly. (TODO: More research into this is needed)
     @Bean
     public WebMvcConfigurer corsConfigurer() {
         return new WebMvcConfigurerAdapter() {
             @Override
             public void addCorsMappings(CorsRegistry registry) {
-                registry.addMapping("/greeting").allowedOrigins("http://localhost:8000");
+                registry.addMapping("/greeting").allowedOrigins("http://localhost:8000v");
                 registry.addMapping("/runTest").allowedOrigins("http://localhost:8000");
 
             }

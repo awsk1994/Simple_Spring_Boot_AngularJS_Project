@@ -30,8 +30,13 @@ Coming soon...
      - Multi-threading
      - Performance Opt.
      - Internet API calls:
-	     ws test: http://websocket.org/echo.html
+        - Websocket
+             - find a websocket js test
+             - add logger to websocket
+
+
 		free api test to test: https://jsonplaceholder.typicode.com/
+
 
 
 

@@ -64,9 +64,19 @@ In the application itself, to do logging:
 
 ```
 
-### References:
+## WebSocket
+
+Implementation referenced from http://github.com/TooTallNate/Java-WebSocket/wiki/Drafts.
+
+To test websocket, you might want to use "ws://echo.websocket.org", which automatically echos any message you send it.
+
+## References:
+
 https://www.callicoder.com/spring-boot-log4j-2-example/
+
 https://github.com/callicoder/spring-boot-log4j-2-demo
+
+http://github.com/TooTallNate/Java-WebSocket/wiki/Drafts
 
 # TODO:
 
