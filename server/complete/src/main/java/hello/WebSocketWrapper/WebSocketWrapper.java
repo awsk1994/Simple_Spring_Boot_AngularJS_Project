@@ -39,17 +39,17 @@ import org.java_websocket.framing.Framedata;
 import org.java_websocket.handshake.ServerHandshake;
 
 /** This example demonstrates how to create a websocket connection to a server. Only the most important callbacks are overloaded. */
-public class JavaxWebSocket extends WebSocketClient {
+public class WebSocketWrapper extends WebSocketClient {
 
-    public JavaxWebSocket(URI serverUri , Draft draft ) {
+    public WebSocketWrapper(URI serverUri , Draft draft ) {
         super( serverUri, draft );
     }
 
-    public JavaxWebSocket(URI serverURI ) {
+    public WebSocketWrapper(URI serverURI ) {
         super( serverURI );
     }
 
-    public JavaxWebSocket(URI serverUri, Map<String, String> httpHeaders ) {
+    public WebSocketWrapper(URI serverUri, Map<String, String> httpHeaders ) {
         super(serverUri, httpHeaders);
     }
 

@@ -18,14 +18,21 @@ public class Application {
         logger.debug("Application Started...");
         SpringApplication.run(Application.class, args);
 
-        APIRequestTester tester = new APIRequestTester("http://example.com");
-        tester.run();
+        execTesters();
+    };
+
+    static void execTesters(){
+        logger.debug("Test Http GET request with String response...");
+        new HttpStringGetResponseTester("https://jsonplaceholder.typicode.com/posts/1").run();
+
+        logger.debug("Test Http GET request with Json response...");
+        new HttpJsonGetResponseTester("https://jsonplaceholder.typicode.com/todos/1").run();
 
         logger.debug("Test Websocket...");
         new WebSocketTester().run();
     };
 
-//     Below is configuration for CORS to work properly. (TODO: More research into this is needed)
+    // Below is configuration for CORS to work properly. (TODO: More research into this is needed)
     @Bean
     public WebMvcConfigurer corsConfigurer() {
         return new WebMvcConfigurerAdapter() {

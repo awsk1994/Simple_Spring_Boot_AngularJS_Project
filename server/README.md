@@ -70,6 +70,12 @@ Implementation referenced from http://github.com/TooTallNate/Java-WebSocket/wiki
 
 To test websocket, you might want to use "ws://echo.websocket.org", which automatically echos any message you send it.
 
+
+## Http Request
+
+Using Apache HttpClient Library for HTTP requests.
+Using json-simple (by Google) for JSON Parsing.
+
 ## References:
 
 https://www.callicoder.com/spring-boot-log4j-2-example/

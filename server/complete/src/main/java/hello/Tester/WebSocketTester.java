@@ -11,7 +11,7 @@ public class WebSocketTester {
         String testWsUrl = "ws://echo.websocket.org";       // Echo websocket server.
 
         try {
-            JavaxWebSocket ws = new JavaxWebSocket(new URI(testWsUrl)); // more about drafts here: http://github.com/TooTallNate/Java-WebSocket/wiki/Drafts
+            WebSocketWrapper ws = new WebSocketWrapper(new URI(testWsUrl)); // more about drafts here: http://github.com/TooTallNate/Java-WebSocket/wiki/Drafts
             ws.connect();
             heartbeatForNSeconds(3);
             ws.close();
