@@ -37,6 +37,7 @@ Coming soon...
              - Figure out how to serialize response.
                 - How to serialize a response: https://stackoverflow.com/questions/20374156/sending-and-parsing-response-using-http-client-for-a-json-list
 		     - free api test to test: https://jsonplaceholder.typicode.com/
+		     - POST requests.
      - write test classes.
 
  - Client:
