@@ -29,13 +29,18 @@ Coming soon...
      - Multi-threading
      - Performance Opt.
      - Internet API calls:
-        - Websocket
-             - find a websocket js test
-             - add logger to websocket
-        - API: Tutorial https://www.baeldung.com/java-http-request
-             - connection manager: https://hc.apache.org/httpcomponents-client-4.5.x/tutorial/html/connmgmt.html
-     - write test classes.
+	 - [HIGH]Concurrent Internet connection
+            - Tutorial https://www.baeldung.com/java-http-request
+            - connection manager: https://hc.apache.org/httpcomponents-client-4.5.x/tutorial/html/connmgmt.html
+     - Websocket 
+            - need more research on correct way to test ws sockets.
+            - add logger to websocket
 
+	 - IMPORTANT FEATURES:
+		 - should check ws connections are maintained every few seconds. Reconnecting automatically after some sleep time. (RMQ? Messaging queue?)
+		 - running new threads and scaling?
+		 - classes emit status?
+		 
  - Client:
      - css, bootstrap
 

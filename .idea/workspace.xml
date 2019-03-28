@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc26e194-2139-4a71-9396-19d961357a37" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/server/complete/src/main/java/hello/Tester/HttpJsonDeserializeGetResponseTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/complete/src/main/java/hello/Tester/HttpJsonPostResponseTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/complete/logs/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/server/complete/logs/application.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/complete/logs/logging.log" beforeDir="false" afterPath="$PROJECT_DIR$/server/complete/logs/logging.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/complete/src/main/java/hello/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/complete/src/main/java/hello/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/complete/src/main/java/hello/Tester/HttpJsonGetResponseTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/complete/src/main/java/hello/Tester/HttpJsonGetResponseTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/complete/src/main/java/hello/Tester/HttpStringGetResponseTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/complete/src/main/java/hello/Tester/HttpStringGetResponseTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/complete/src/main/java/hello/Tester/JsonDeserializeTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/complete/src/main/java/hello/Tester/JsonDeserializeTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/complete/src/main/java/hello/Tester/WebSocketTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/server/complete/src/main/java/hello/Tester/WebSocketTester.java" afterDir="false" />
     </list>
     <ignored path="Simple_Spring_Boot_AngularJS_Project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -128,15 +120,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/server/complete/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="819">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server/complete/src/main/java/hello/Application.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="623">
@@ -190,11 +173,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="632">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="527">
+              <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/complete/src/test/java/hello/GreetingControllerTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -242,13 +237,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/server/complete/src/main/java/hello/Tester/WebSocketTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="30" selection-end-line="31" />
+            <state relative-caret-position="189">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#885#886#0" expanded="true" />
+                <element signature="e#903#904#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -299,7 +296,6 @@
         <option value="$PROJECT_DIR$/server/complete/logs/log4j2-demo.log" />
         <option value="$PROJECT_DIR$/server/complete/src/main/resources/log4j2.xml" />
         <option value="$PROJECT_DIR$/server/complete/src/main/java/hello/websocket/client/Message.java" />
-        <option value="$PROJECT_DIR$/server/complete/src/test/java/hello/GreetingControllerTests.java" />
         <option value="$PROJECT_DIR$/server/complete/src/main/java/hello/VadMain.java" />
         <option value="$PROJECT_DIR$/server/complete/src/main/java/hello/websocket/client/StompClient.java" />
         <option value="$PROJECT_DIR$/server/complete/src/main/java/hello/websocket/client/MyStompSessionHandler.java" />
@@ -322,7 +318,6 @@
         <option value="$PROJECT_DIR$/server/complete/src/main/java/hello/HttpStringGetResponseTester.java" />
         <option value="$PROJECT_DIR$/server/complete/src/main/java/hello/HttpJsonGetResponseTester.java" />
         <option value="$PROJECT_DIR$/server/complete/src/main/java/hello/WebSocketWrapper/WebSocketWrapper.java" />
-        <option value="$PROJECT_DIR$/server/complete/src/main/java/hello/Tester/WebSocketTester.java" />
         <option value="$PROJECT_DIR$/server/README.md" />
         <option value="$PROJECT_DIR$/server/complete/src/main/java/hello/VadMainController.java" />
         <option value="$PROJECT_DIR$/server/complete/src/main/java/hello/Http/HttpResult.java" />
@@ -334,6 +329,8 @@
         <option value="$PROJECT_DIR$/server/complete/src/main/java/hello/Application.java" />
         <option value="$PROJECT_DIR$/server/complete/src/main/java/hello/Tester/HttpJsonPostResponseTester.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/server/complete/src/test/java/hello/GreetingControllerTests.java" />
+        <option value="$PROJECT_DIR$/server/complete/src/main/java/hello/Tester/WebSocketTester.java" />
       </list>
     </option>
   </component>
@@ -487,9 +484,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553797109236" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553798459150" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server/complete" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -608,8 +605,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test Greetings" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="hello" />
+      <module name="Simple_Spring_Boot_AngularJS_Project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/server/complete/src/main/java/hello/Tester" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/server/complete" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -689,18 +694,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22547974" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15191898" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Palette&#9;" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25111112" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -743,16 +748,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server/complete/logs/application.log">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/complete/src/test/java/hello/GreetingControllerTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server/complete/src/main/resources/log4j2.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -961,16 +956,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/complete/src/main/java/hello/Tester/WebSocketTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="30" selection-end-line="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server/complete/src/main/java/hello/Tester/JsonDeserializeTester.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -1056,8 +1041,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="632">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="527">
+          <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/complete/src/test/java/hello/GreetingControllerTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/complete/src/main/java/hello/Tester/WebSocketTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#885#886#0" expanded="true" />
+            <element signature="e#903#904#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

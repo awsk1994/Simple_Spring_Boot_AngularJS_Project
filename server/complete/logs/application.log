@@ -495,3 +495,163 @@
 2019-03-28 17:47:13.149 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
 2019-03-28 17:47:13.152  INFO BIL-L-AWONG2 --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
 2019-03-28 17:47:17.879  INFO BIL-L-AWONG2 --- [           main] h.Application                            : Started Application in 5.962 seconds (JVM running for 21.097)
+2019-03-28 18:42:00.016  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 2480 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 18:42:00.018 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 18:42:00.020  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 18:42:04.375  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 4.885 seconds (JVM running for 10.889)
+2019-03-28 18:44:50.322  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 22056 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 18:44:50.323 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 18:44:50.325  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 18:44:54.102  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 4.442 seconds (JVM running for 8.846)
+2019-03-28 18:47:16.856  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 4748 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 18:47:16.858 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 18:47:16.859  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 18:47:21.281  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 5.032 seconds (JVM running for 8.35)
+2019-03-28 18:49:55.438  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 16884 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 18:49:55.439 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 18:49:55.445  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 18:49:58.924  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 3.994 seconds (JVM running for 6.887)
+2019-03-28 18:50:49.356  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 20452 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 18:50:49.358 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 18:50:49.369  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 18:50:53.729  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 5.074 seconds (JVM running for 10.574)
+2019-03-28 18:51:51.340  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 14028 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 18:51:51.342 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 18:51:51.343  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 18:51:54.539  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 3.639 seconds (JVM running for 6.38)
+2019-03-28 18:52:48.356  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 19720 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 18:52:48.358 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 18:52:48.359  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 18:52:51.675  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 3.736 seconds (JVM running for 6.625)
+2019-03-28 18:53:37.691  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 16564 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 18:53:37.692 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 18:53:37.693  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 18:53:41.079  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 3.899 seconds (JVM running for 6.819)
+2019-03-28 18:54:20.408  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 17864 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 18:54:20.414 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 18:54:20.418  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 18:54:24.099  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 4.094 seconds (JVM running for 6.982)
+2019-03-28 18:54:49.503  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 8568 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 18:54:49.504 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 18:54:49.506  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 18:54:53.218  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 4.388 seconds (JVM running for 8.151)
+2019-03-28 19:01:24.143  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 11520 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 19:01:24.154 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 19:01:24.168  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 19:01:28.078  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 4.542 seconds (JVM running for 7.445)
+2019-03-28 19:01:57.261  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 9556 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 19:01:57.266 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 19:01:57.267  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 19:02:01.163  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 4.476 seconds (JVM running for 8.624)
+2019-03-28 19:03:08.778  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 19776 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 19:03:08.779 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 19:03:08.780  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 19:03:13.523  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 5.243 seconds (JVM running for 8.419)
+2019-03-28 19:03:32.773  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 8344 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 19:03:32.783 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 19:03:32.784  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 19:03:39.047  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 7.05 seconds (JVM running for 11.947)
+2019-03-28 19:04:04.432  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 21828 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 19:04:04.433 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 19:04:04.435  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 19:04:07.971  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 4.265 seconds (JVM running for 7.222)
+2019-03-28 19:06:56.099  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 8164 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 19:06:56.101 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 19:06:56.103  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 19:07:02.165  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 6.774 seconds (JVM running for 9.777)
+2019-03-28 19:07:46.650  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 22308 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 19:07:46.652 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 19:07:46.661  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 19:07:50.505  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 4.369 seconds (JVM running for 7.203)
+2019-03-28 19:08:17.968  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 18644 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 19:08:17.969 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 19:08:17.971  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 19:08:21.338  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 3.925 seconds (JVM running for 6.924)
+2019-03-28 19:08:53.537  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 12592 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 19:08:53.538 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 19:08:53.539  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 19:08:57.106  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 4.255 seconds (JVM running for 7.354)
+2019-03-28 19:09:31.338  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 13092 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 19:09:31.340 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 19:09:31.342  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 19:09:35.003  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 4.417 seconds (JVM running for 7.668)
+2019-03-28 19:10:54.221  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 22192 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 19:10:54.222 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 19:10:54.224  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 19:10:59.024  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 5.598 seconds (JVM running for 9.173)
+2019-03-28 19:11:48.465  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 19424 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 19:11:48.467 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 19:11:48.468  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 19:11:53.241  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 5.35 seconds (JVM running for 9.395)
+2019-03-28 19:14:23.559  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 2744 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 19:14:23.563 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 19:14:23.564  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 19:14:26.903  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 3.765 seconds (JVM running for 7.082)
+2019-03-28 19:15:41.821  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 16800 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 19:15:41.823 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 19:15:41.829  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 19:15:45.376  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 4.072 seconds (JVM running for 7.373)
+2019-03-28 19:16:31.057  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 6360 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 19:16:31.059 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 19:16:31.065  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 19:16:34.509  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 4.015 seconds (JVM running for 6.7)
+2019-03-28 19:22:13.954  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 15904 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 19:22:13.956 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 19:22:13.958  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 19:22:17.489  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 4.112 seconds (JVM running for 6.972)
+2019-03-28 19:22:17.873 DEBUG BIL-L-AWONG2 --- [           main] h.ExampleClient                          : trying to send - Message number 0 (this message is sent too early - doesn't get echo-ed back)
+2019-03-28 19:22:17.873 DEBUG BIL-L-AWONG2 --- [           main] h.ExampleClient                          : WS status. Closed: false, closing: false, open: false
+2019-03-28 19:22:18.873 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Heartbeat count: 0
+2019-03-28 19:22:19.873 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Heartbeat count: 1
+2019-03-28 19:22:19.873 DEBUG BIL-L-AWONG2 --- [           main] h.ExampleClient                          : trying to send - Message number 1
+2019-03-28 19:22:19.873 DEBUG BIL-L-AWONG2 --- [           main] h.ExampleClient                          : WS status. Closed: false, closing: false, open: true
+2019-03-28 19:22:19.893 DEBUG BIL-L-AWONG2 --- [ctReadThread-18] h.DummyObj                               : [0] Dummy whenMessage: Message number 1
+2019-03-28 19:22:20.878 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Heartbeat count: 0
+2019-03-28 19:22:21.879 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Heartbeat count: 1
+2019-03-28 19:22:21.880 DEBUG BIL-L-AWONG2 --- [           main] h.ExampleClient                          : trying to send - Message number 2
+2019-03-28 19:22:21.881 DEBUG BIL-L-AWONG2 --- [           main] h.ExampleClient                          : WS status. Closed: false, closing: false, open: true
+2019-03-28 19:22:21.896 DEBUG BIL-L-AWONG2 --- [ctReadThread-18] h.DummyObj                               : [1] Dummy whenMessage: Message number 2
+2019-03-28 19:22:22.882 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Heartbeat count: 0
+2019-03-28 19:22:23.882 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Heartbeat count: 1
+2019-03-28 19:22:23.882 DEBUG BIL-L-AWONG2 --- [           main] h.ExampleClient                          : trying to send - Message number 3 (this message might not echo back in time).
+2019-03-28 19:22:23.882 DEBUG BIL-L-AWONG2 --- [           main] h.ExampleClient                          : WS status. Closed: false, closing: false, open: true
+2019-03-28 19:24:48.608  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 11388 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 19:24:48.623 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 19:24:48.628  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 19:24:52.340  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 4.219 seconds (JVM running for 7.812)
+2019-03-28 19:24:52.730 ERROR BIL-L-AWONG2 --- [           main] h.ExampleClient                          : Cannot send - No connection opened. (Message = Message number 0 (this message is sent too early - doesn't get echo-ed back)).
+2019-03-28 19:24:52.783 DEBUG BIL-L-AWONG2 --- [ctReadThread-18] h.ExampleClient                          : WebSocket connection is open.
+2019-03-28 19:24:52.783 DEBUG BIL-L-AWONG2 --- [ctReadThread-18] h.DummyObj                               : Dummy whenOpen
+2019-03-28 19:24:53.730 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Heartbeat count: 0
+2019-03-28 19:24:54.731 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Heartbeat count: 1
+2019-03-28 19:24:54.750 DEBUG BIL-L-AWONG2 --- [ctReadThread-18] h.ExampleClient                          : Received: Message number 1
+2019-03-28 19:24:54.750 DEBUG BIL-L-AWONG2 --- [ctReadThread-18] h.DummyObj                               : [0] Dummy whenMessage: Message number 1
+2019-03-28 19:24:55.734 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Heartbeat count: 0
+2019-03-28 19:24:56.734 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Heartbeat count: 1
+2019-03-28 19:24:56.750 DEBUG BIL-L-AWONG2 --- [ctReadThread-18] h.ExampleClient                          : Received: Message number 2
+2019-03-28 19:24:56.750 DEBUG BIL-L-AWONG2 --- [ctReadThread-18] h.DummyObj                               : [1] Dummy whenMessage: Message number 2
+2019-03-28 19:24:57.735 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Heartbeat count: 0
+2019-03-28 19:24:58.735 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Heartbeat count: 1
+2019-03-28 19:24:58.736 DEBUG BIL-L-AWONG2 --- [           main] h.ExampleClient                          : onClosing
+2019-03-28 19:24:58.737  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Last message is: Message number 2[ counter = 2]
+2019-03-28 19:25:35.294  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 17336 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 19:25:35.296 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 19:25:35.304  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 19:25:38.758  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 3.903 seconds (JVM running for 6.724)
+2019-03-28 19:25:38.985 ERROR BIL-L-AWONG2 --- [           main] h.ExampleClient                          : Cannot send - No connection opened. (Message = Message number 0 (this message is sent too early - doesn't get echo-ed back)).
+2019-03-28 19:25:39.034 DEBUG BIL-L-AWONG2 --- [ctReadThread-18] h.ExampleClient                          : WebSocket connection is open.
+2019-03-28 19:25:39.034 DEBUG BIL-L-AWONG2 --- [ctReadThread-18] h.DummyObj                               : Dummy whenOpen
+2019-03-28 19:25:39.987 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         :  --- heartbeat count: 0
+2019-03-28 19:25:40.987 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         :  --- heartbeat count: 1
+2019-03-28 19:25:41.008 DEBUG BIL-L-AWONG2 --- [ctReadThread-18] h.ExampleClient                          : Received: Message number 1
+2019-03-28 19:25:41.008 DEBUG BIL-L-AWONG2 --- [ctReadThread-18] h.DummyObj                               : [0] Dummy whenMessage: Message number 1
+2019-03-28 19:25:41.992 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         :  --- heartbeat count: 0
+2019-03-28 19:25:42.993 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         :  --- heartbeat count: 1
+2019-03-28 19:25:43.010 DEBUG BIL-L-AWONG2 --- [ctReadThread-18] h.ExampleClient                          : Received: Message number 2
+2019-03-28 19:25:43.011 DEBUG BIL-L-AWONG2 --- [ctReadThread-18] h.DummyObj                               : [1] Dummy whenMessage: Message number 2
+2019-03-28 19:25:43.996 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         :  --- heartbeat count: 0
+2019-03-28 19:25:44.997 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         :  --- heartbeat count: 1
+2019-03-28 19:25:45.004 DEBUG BIL-L-AWONG2 --- [           main] h.ExampleClient                          : onClosing
+2019-03-28 19:25:45.005  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Last message is: Message number 2[ counter = 2]
+2019-03-28 19:25:45.015 DEBUG BIL-L-AWONG2 --- [ctReadThread-18] h.ExampleClient                          : Connection closed by us Code: 1000 Reason: 
+2019-03-28 19:25:45.015 DEBUG BIL-L-AWONG2 --- [ctReadThread-18] h.DummyObj                               : Dummy whenClose
