@@ -19,10 +19,18 @@ import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClients;
 import org.apache.http.util.EntityUtils;
 
-public class HttpJsonGetResponseTester {
+import org.codehaus.jackson.JsonGenerationException;
+import org.codehaus.jackson.map.JsonMappingException;
+import org.codehaus.jackson.map.ObjectMapper;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.io.IOException;
+
+public class HttpJsonDeserializeGetResponseTester {
     private String url;
 
-    public HttpJsonGetResponseTester(String url){
+    public HttpJsonDeserializeGetResponseTester(String url){
         this.url = url;
     };
 
@@ -45,44 +53,70 @@ public class HttpJsonGetResponseTester {
         HttpGet httpget = new HttpGet(url);
         System.out.println("Executing request " + httpget.getRequestLine());
 
-        ResponseHandler<JSONObject> responseHandler = new JSONResponseHandlerWrapper();
-        JSONObject jsonObj = httpclient.execute(httpget, responseHandler);
-
-        System.out.println("----------------------------------------");
-
-        String title = (String) jsonObj.get("title");
-        System.out.println("The title is " + title + ".");
-        System.out.println(jsonObj);
+        ResponseHandler<TodosObject> responseHandler = new JSONResponseHandlerWrapper();
+        TodosObject todosObject = httpclient.execute(httpget, responseHandler);
+        System.out.println(todosObject);
     };
 
-
     class JSONResponseHandlerWrapper implements ResponseHandler{
-        public JSONObject handleResponse(final HttpResponse response) throws ClientProtocolException, IOException {
+        public TodosObject handleResponse(final HttpResponse response) throws ClientProtocolException, IOException {
             int status = response.getStatusLine().getStatusCode();
             JSONObject returnData = new JSONObject();
             JSONParser parser = new JSONParser();
+            ObjectMapper mapper = new ObjectMapper();
 
             if (status >= 200 && status < 300) {
                 HttpEntity entity = response.getEntity();
 
                 try{
                     if(entity == null){
-                        returnData.put("status_code", "1");
-                        returnData.put("error_message", "null Data Found");
+                        return null;
                     } else {
-                        returnData = (JSONObject) parser.parse(EntityUtils.toString(entity));
-                    };
-                } catch (ParseException | IOException e) {
-                    returnData.put("status_code", "1");
-                    returnData.put("error_message", e.getMessage());
-                };
+                        String jsonInString = EntityUtils.toString(entity);
+                        TodosObject todos = mapper.readValue(jsonInString, TodosObject.class);
+                        return todos;
+                    }
+                } catch (IOException e) {
+                    e.printStackTrace();
+                    return null;
+                }
             } else {
-                returnData.put("status_code", "1");
-                returnData.put("error_message", "Unexpected response status: " + status);
-            };
-            return returnData;
-        };
-    };
+                return null;
+            }
+        }
+    }
+
 };
 
 
+class TodosObject{
+    private int userId;
+    private int id;
+    private String title;
+    private boolean completed;
+
+    public int getUserId() {
+        return userId;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public boolean isCompleted() {
+        return completed;
+    }
+
+    public java.lang.String toString() {
+        return "TodosObject{" +
+                "userId=" + userId +
+                ", id=" + id +
+                ", title='" + title + '\'' +
+                ", completed=" + completed +
+                '}';
+    };
+};

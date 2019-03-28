@@ -33,6 +33,13 @@ public class Application {
 
         logger.debug("Test JSON deserialize....");
         new JsonDeserializeTester().run();
+
+        logger.debug("Test Http JSON deserialize....");
+        new HttpJsonDeserializeGetResponseTester("https://jsonplaceholder.typicode.com/todos/1").run();
+
+        logger.debug("Test Http POST JSON ....");
+        new HttpJsonPostResponseTester("https://jsonplaceholder.typicode.com/posts").run();
+
     };
 
     // Below is configuration for CORS to work properly. (TODO: More research into this is needed)

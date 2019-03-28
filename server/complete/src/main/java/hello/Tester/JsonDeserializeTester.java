@@ -27,6 +27,7 @@ public class JsonDeserializeTester {
             e.printStackTrace();
         };
     };
+
 };
 
 class User {

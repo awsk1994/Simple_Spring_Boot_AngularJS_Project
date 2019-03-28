@@ -34,10 +34,6 @@ Coming soon...
              - add logger to websocket
         - API: Tutorial https://www.baeldung.com/java-http-request
              - connection manager: https://hc.apache.org/httpcomponents-client-4.5.x/tutorial/html/connmgmt.html
-             - Figure out how to serialize response.
-                - How to serialize a response: https://stackoverflow.com/questions/20374156/sending-and-parsing-response-using-http-client-for-a-json-list
-		     - free api test to test: https://jsonplaceholder.typicode.com/
-		     - POST requests.
      - write test classes.
 
  - Client:
