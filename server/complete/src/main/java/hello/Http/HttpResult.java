@@ -1,14 +1,32 @@
 package hello;
 
+/*
+    When used as return object in Controller, it will return:
+    {
+        'status': <STATUS>,
+        'details': <DETAILS>
+    };
+ */
 public class HttpResult {
-
     private final String status;
+    private final String details;
 
-    public HttpResult(String status) {
+    public HttpResult(String status, String details) {
         this.status = status;
+        this.details = details;
+    };
+
+    /* Response is based on how many get<Key> methods you have. */
+
+    public String getDetails() {
+        return details;
     };
 
     public String getStatus() {
         return status;
-    }   // this is the string that gets returned to UI.
+    };
+
+    public String blahMethod(){
+        return status;
+    }
 }

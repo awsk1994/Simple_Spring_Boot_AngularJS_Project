@@ -30,6 +30,9 @@ public class Application {
 
         logger.debug("Test Websocket...");
         new WebSocketTester().run();
+
+        logger.debug("Test JSON deserialize....");
+        new JsonDeserializeTester().run();
     };
 
     // Below is configuration for CORS to work properly. (TODO: More research into this is needed)

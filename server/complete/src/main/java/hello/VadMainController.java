@@ -16,14 +16,14 @@ public class VadMainController {
         System.out.println("/runTest | " + System.currentTimeMillis());     // TODO: Better logging library usage required.
         VadMain vadMain = new VadMain(counter.incrementAndGet(), name);
         vadMain.run();  // VadMain will run, and finish in 5 seconds.
-       return new HttpResult("Done");   // HttpResult object will return the HTTP in the json form of {data: <STATUS>}
+       return new HttpResult("Done", "");   // HttpResult object will return the HTTP in the json form of {data: <STATUS>}
     };
 
     @RequestMapping("/testWs")
     public HttpResult testWs(){
         System.out.println("/test Ws | " + System.currentTimeMillis());
         String URL = "wss://echo.websocket.org";
-        return new HttpResult("Done");   // HttpResult object will return the HTTP in the json form of {data: <STATUS>}
+        return new HttpResult("Done", "");   // HttpResult object will return the HTTP in the json form of {data: <STATUS>}
     };
 
 }
