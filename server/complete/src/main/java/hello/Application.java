@@ -17,29 +17,6 @@ public class Application {
     public static void main(String[] args) {
         logger.debug("Application Started...");
         SpringApplication.run(Application.class, args);
-
-        execTesters();
-    };
-
-    static void execTesters(){
-        logger.debug("Test Http GET request with String response...");
-        new HttpStringGetResponseTester("https://jsonplaceholder.typicode.com/posts/1").run();
-
-        logger.debug("Test Http GET request with Json response...");
-        new HttpJsonGetResponseTester("https://jsonplaceholder.typicode.com/todos/1").run();
-
-        logger.debug("Test Websocket...");
-        new WebSocketTester().run();
-
-        logger.debug("Test JSON deserialize....");
-        new JsonDeserializeTester().run();
-
-        logger.debug("Test Http JSON deserialize....");
-        new HttpJsonDeserializeGetResponseTester("https://jsonplaceholder.typicode.com/todos/1").run();
-
-        logger.debug("Test Http POST JSON ....");
-        new HttpJsonPostResponseTester("https://jsonplaceholder.typicode.com/posts").run();
-
     };
 
     // Below is configuration for CORS to work properly. (TODO: More research into this is needed)
@@ -50,7 +27,6 @@ public class Application {
             public void addCorsMappings(CorsRegistry registry) {
                 registry.addMapping("/greeting").allowedOrigins("http://localhost:8000v");
                 registry.addMapping("/runTest").allowedOrigins("http://localhost:8000");
-
             }
         };
     }

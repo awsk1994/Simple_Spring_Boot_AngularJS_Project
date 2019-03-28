@@ -244,3 +244,254 @@
 2019-03-28 13:50:48.800 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Test JSON deserialize....
 2019-03-28 13:50:49.019 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Test Http JSON deserialize....
 2019-03-28 13:50:49.117 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Test Http POST JSON ....
+2019-03-28 14:47:24.834 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Application Started...
+2019-03-28 14:47:25.633  INFO BIL-L-AWONG2 --- [           main] h.Application                            : Starting Application on BIL-L-AWONG2 with PID 9196 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 14:47:25.640 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 14:47:25.641  INFO BIL-L-AWONG2 --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-03-28 14:47:35.240  INFO BIL-L-AWONG2 --- [           main] h.Application                            : Started Application in 10.231 seconds (JVM running for 25.001)
+2019-03-28 14:47:35.550 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Test Http GET request with String response...
+2019-03-28 14:47:39.083 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Test Http GET request with Json response...
+2019-03-28 14:47:39.139 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Test Websocket...
+2019-03-28 14:47:43.179 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Test JSON deserialize....
+2019-03-28 14:47:43.453 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Test Http JSON deserialize....
+2019-03-28 14:47:43.514 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Test Http POST JSON ....
+2019-03-28 14:54:02.197  INFO BIL-L-AWONG2 --- [           main] h.GreetingControllerTests                : Starting GreetingControllerTests on BIL-L-AWONG2 with PID 14716 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 14:54:02.199 DEBUG BIL-L-AWONG2 --- [           main] h.GreetingControllerTests                : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 14:54:02.201  INFO BIL-L-AWONG2 --- [           main] h.GreetingControllerTests                : No active profile set, falling back to default profiles: default
+2019-03-28 14:54:06.008  INFO BIL-L-AWONG2 --- [           main] h.GreetingControllerTests                : Started GreetingControllerTests in 4.308 seconds (JVM running for 7.802)
+2019-03-28 14:55:56.282  INFO BIL-L-AWONG2 --- [           main] h.GreetingControllerTests                : Starting GreetingControllerTests on BIL-L-AWONG2 with PID 3860 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 14:55:56.284 DEBUG BIL-L-AWONG2 --- [           main] h.GreetingControllerTests                : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 14:55:56.294  INFO BIL-L-AWONG2 --- [           main] h.GreetingControllerTests                : No active profile set, falling back to default profiles: default
+2019-03-28 14:55:59.925  INFO BIL-L-AWONG2 --- [           main] h.GreetingControllerTests                : Started GreetingControllerTests in 4.195 seconds (JVM running for 7.449)
+2019-03-28 15:00:08.059  INFO BIL-L-AWONG2 --- [           main] h.GreetingControllerTests                : Starting GreetingControllerTests on BIL-L-AWONG2 with PID 17240 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 15:00:08.063 DEBUG BIL-L-AWONG2 --- [           main] h.GreetingControllerTests                : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 15:00:08.064  INFO BIL-L-AWONG2 --- [           main] h.GreetingControllerTests                : No active profile set, falling back to default profiles: default
+2019-03-28 15:00:11.377  INFO BIL-L-AWONG2 --- [           main] h.GreetingControllerTests                : Started GreetingControllerTests in 3.778 seconds (JVM running for 6.865)
+2019-03-28 15:07:00.542  INFO BIL-L-AWONG2 --- [           main] h.HttpGetStringRespTests                 : Starting HttpGetStringRespTests on BIL-L-AWONG2 with PID 15384 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 15:07:00.575 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetStringRespTests                 : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 15:07:00.580  INFO BIL-L-AWONG2 --- [           main] h.HttpGetStringRespTests                 : No active profile set, falling back to default profiles: default
+2019-03-28 15:07:04.130  INFO BIL-L-AWONG2 --- [           main] h.HttpGetStringRespTests                 : Started HttpGetStringRespTests in 4.218 seconds (JVM running for 6.791)
+2019-03-28 15:09:28.453  INFO BIL-L-AWONG2 --- [           main] h.HttpGetStringRespTests                 : Starting HttpGetStringRespTests on BIL-L-AWONG2 with PID 228 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 15:09:28.454 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetStringRespTests                 : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 15:09:28.459  INFO BIL-L-AWONG2 --- [           main] h.HttpGetStringRespTests                 : No active profile set, falling back to default profiles: default
+2019-03-28 15:09:31.623  INFO BIL-L-AWONG2 --- [           main] h.HttpGetStringRespTests                 : Started HttpGetStringRespTests in 3.74 seconds (JVM running for 6.383)
+2019-03-28 15:09:55.554  INFO BIL-L-AWONG2 --- [           main] h.HttpGetStringRespTests                 : Starting HttpGetStringRespTests on BIL-L-AWONG2 with PID 12512 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 15:09:55.554 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetStringRespTests                 : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 15:09:55.556  INFO BIL-L-AWONG2 --- [           main] h.HttpGetStringRespTests                 : No active profile set, falling back to default profiles: default
+2019-03-28 15:09:58.978  INFO BIL-L-AWONG2 --- [           main] h.HttpGetStringRespTests                 : Started HttpGetStringRespTests in 3.861 seconds (JVM running for 6.566)
+2019-03-28 15:11:54.170  INFO BIL-L-AWONG2 --- [           main] h.HttpGetStringRespTests                 : Starting HttpGetStringRespTests on BIL-L-AWONG2 with PID 20712 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 15:11:54.172 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetStringRespTests                 : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 15:11:54.175  INFO BIL-L-AWONG2 --- [           main] h.HttpGetStringRespTests                 : No active profile set, falling back to default profiles: default
+2019-03-28 15:11:57.441  INFO BIL-L-AWONG2 --- [           main] h.HttpGetStringRespTests                 : Started HttpGetStringRespTests in 3.836 seconds (JVM running for 6.707)
+2019-03-28 15:15:46.938  INFO BIL-L-AWONG2 --- [           main] h.HttpGetStringRespTests                 : Starting HttpGetStringRespTests on BIL-L-AWONG2 with PID 20904 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 15:15:46.939 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetStringRespTests                 : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 15:15:46.941  INFO BIL-L-AWONG2 --- [           main] h.HttpGetStringRespTests                 : No active profile set, falling back to default profiles: default
+2019-03-28 15:15:50.381  INFO BIL-L-AWONG2 --- [           main] h.HttpGetStringRespTests                 : Started HttpGetStringRespTests in 3.946 seconds (JVM running for 6.733)
+2019-03-28 15:19:46.357  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Starting HttpGetRespHandlerWrapperTests on BIL-L-AWONG2 with PID 10100 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 15:19:46.359 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 15:19:46.361  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : No active profile set, falling back to default profiles: default
+2019-03-28 15:19:49.882  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Started HttpGetRespHandlerWrapperTests in 4.091 seconds (JVM running for 6.749)
+2019-03-28 15:21:27.357 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Application Started...
+2019-03-28 15:21:28.937  INFO BIL-L-AWONG2 --- [           main] h.Application                            : Starting Application on BIL-L-AWONG2 with PID 4924 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 15:21:28.942 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 15:21:28.946  INFO BIL-L-AWONG2 --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-03-28 15:21:33.265  INFO BIL-L-AWONG2 --- [           main] h.Application                            : Started Application in 5.755 seconds (JVM running for 19.923)
+2019-03-28 15:21:33.270 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Test Http GET request with String response...
+2019-03-28 15:21:34.600 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Test Http GET request with Json response...
+2019-03-28 15:21:34.682 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Test Websocket...
+2019-03-28 15:21:38.711 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Test JSON deserialize....
+2019-03-28 15:21:39.009 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Test Http JSON deserialize....
+2019-03-28 15:21:39.132 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Test Http POST JSON ....
+2019-03-28 15:25:44.555  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Starting HttpGetRespHandlerWrapperTests on BIL-L-AWONG2 with PID 18580 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 15:25:44.563 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 15:25:44.564  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : No active profile set, falling back to default profiles: default
+2019-03-28 15:25:47.808  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Started HttpGetRespHandlerWrapperTests in 3.677 seconds (JVM running for 6.911)
+2019-03-28 15:35:45.511  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Starting HttpGetRespHandlerWrapperTests on BIL-L-AWONG2 with PID 19656 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 15:35:45.512 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 15:35:45.514  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : No active profile set, falling back to default profiles: default
+2019-03-28 15:35:48.974  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Started HttpGetRespHandlerWrapperTests in 4.001 seconds (JVM running for 6.973)
+2019-03-28 15:36:22.058  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Starting HttpGetRespHandlerWrapperTests on BIL-L-AWONG2 with PID 10940 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 15:36:22.066 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 15:36:22.068  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : No active profile set, falling back to default profiles: default
+2019-03-28 15:36:27.201  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Started HttpGetRespHandlerWrapperTests in 5.818 seconds (JVM running for 8.97)
+2019-03-28 15:46:44.540  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Starting HttpGetRespHandlerWrapperTests on BIL-L-AWONG2 with PID 17820 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 15:46:44.542 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 15:46:44.546  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : No active profile set, falling back to default profiles: default
+2019-03-28 15:46:48.260  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Started HttpGetRespHandlerWrapperTests in 4.279 seconds (JVM running for 7.521)
+2019-03-28 15:48:47.032  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Starting HttpGetRespHandlerWrapperTests on BIL-L-AWONG2 with PID 20776 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 15:48:47.034 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 15:48:47.036  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : No active profile set, falling back to default profiles: default
+2019-03-28 15:48:50.430  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Started HttpGetRespHandlerWrapperTests in 3.946 seconds (JVM running for 6.813)
+2019-03-28 15:49:43.680  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Starting HttpGetRespHandlerWrapperTests on BIL-L-AWONG2 with PID 21904 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 15:49:43.681 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 15:49:43.683  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : No active profile set, falling back to default profiles: default
+2019-03-28 15:49:49.900  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Started HttpGetRespHandlerWrapperTests in 7.086 seconds (JVM running for 10.595)
+2019-03-28 15:50:18.556  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Starting HttpGetRespHandlerWrapperTests on BIL-L-AWONG2 with PID 16144 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 15:50:18.559 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 15:50:18.564  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : No active profile set, falling back to default profiles: default
+2019-03-28 15:50:22.189  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Started HttpGetRespHandlerWrapperTests in 4.072 seconds (JVM running for 7.959)
+2019-03-28 15:51:28.825  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Starting HttpGetRespHandlerWrapperTests on BIL-L-AWONG2 with PID 21132 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 15:51:28.828 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 15:51:28.830  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : No active profile set, falling back to default profiles: default
+2019-03-28 15:51:32.218  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Started HttpGetRespHandlerWrapperTests in 3.806 seconds (JVM running for 6.607)
+2019-03-28 15:52:45.526  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Starting HttpGetRespHandlerWrapperTests on BIL-L-AWONG2 with PID 17088 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 15:52:45.527 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 15:52:45.530  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : No active profile set, falling back to default profiles: default
+2019-03-28 15:52:50.172  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Started HttpGetRespHandlerWrapperTests in 5.806 seconds (JVM running for 10.498)
+2019-03-28 15:53:54.320  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Starting HttpGetRespHandlerWrapperTests on BIL-L-AWONG2 with PID 3864 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 15:53:54.326 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 15:53:54.330  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : No active profile set, falling back to default profiles: default
+2019-03-28 15:53:58.715  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Started HttpGetRespHandlerWrapperTests in 4.924 seconds (JVM running for 8.361)
+2019-03-28 15:54:40.244  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Starting HttpGetRespHandlerWrapperTests on BIL-L-AWONG2 with PID 13904 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 15:54:40.246 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 15:54:40.308  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : No active profile set, falling back to default profiles: default
+2019-03-28 15:54:44.195  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Started HttpGetRespHandlerWrapperTests in 4.433 seconds (JVM running for 8.353)
+2019-03-28 15:57:31.253  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Starting HttpGetRespHandlerWrapperTests on BIL-L-AWONG2 with PID 21132 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 15:57:31.254 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 15:57:31.256  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : No active profile set, falling back to default profiles: default
+2019-03-28 15:57:35.601  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Started HttpGetRespHandlerWrapperTests in 4.91 seconds (JVM running for 8.712)
+2019-03-28 16:10:53.401  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Starting HttpGetRespHandlerWrapperTests on BIL-L-AWONG2 with PID 10192 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 16:10:53.402 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 16:10:53.405  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : No active profile set, falling back to default profiles: default
+2019-03-28 16:10:58.354  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Started HttpGetRespHandlerWrapperTests in 5.567 seconds (JVM running for 10.325)
+2019-03-28 16:15:17.587  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Starting HttpGetRespHandlerWrapperTests on BIL-L-AWONG2 with PID 2508 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 16:15:17.598 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 16:15:17.599  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : No active profile set, falling back to default profiles: default
+2019-03-28 16:15:21.130  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Started HttpGetRespHandlerWrapperTests in 4.106 seconds (JVM running for 6.898)
+2019-03-28 16:16:03.760  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Starting HttpGetRespHandlerWrapperTests on BIL-L-AWONG2 with PID 16700 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 16:16:03.762 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 16:16:03.763  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : No active profile set, falling back to default profiles: default
+2019-03-28 16:16:07.006  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Started HttpGetRespHandlerWrapperTests in 3.784 seconds (JVM running for 6.92)
+2019-03-28 16:18:15.412  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Starting HttpGetRespHandlerWrapperTests on BIL-L-AWONG2 with PID 16816 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 16:18:15.414 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 16:18:15.415  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : No active profile set, falling back to default profiles: default
+2019-03-28 16:18:19.243  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Started HttpGetRespHandlerWrapperTests in 4.315 seconds (JVM running for 7.144)
+2019-03-28 16:18:53.735  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Starting HttpGetRespHandlerWrapperTests on BIL-L-AWONG2 with PID 3532 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 16:18:53.736 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 16:18:53.741  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : No active profile set, falling back to default profiles: default
+2019-03-28 16:19:00.042  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Started HttpGetRespHandlerWrapperTests in 7.1 seconds (JVM running for 11.24)
+2019-03-28 16:21:36.558  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Starting HttpGetRespHandlerWrapperTests on BIL-L-AWONG2 with PID 15440 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 16:21:36.561 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 16:21:36.562  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : No active profile set, falling back to default profiles: default
+2019-03-28 16:21:41.048  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Started HttpGetRespHandlerWrapperTests in 5.155 seconds (JVM running for 8.745)
+2019-03-28 16:23:36.614  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Starting HttpGetRespHandlerWrapperTests on BIL-L-AWONG2 with PID 17432 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 16:23:36.616 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 16:23:36.618  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : No active profile set, falling back to default profiles: default
+2019-03-28 16:23:40.657  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Started HttpGetRespHandlerWrapperTests in 4.541 seconds (JVM running for 7.671)
+2019-03-28 16:26:23.080  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Starting HttpGetRespHandlerWrapperTests on BIL-L-AWONG2 with PID 21680 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 16:26:23.081 DEBUG BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 16:26:23.083  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : No active profile set, falling back to default profiles: default
+2019-03-28 16:26:26.735  INFO BIL-L-AWONG2 --- [           main] h.HttpGetRespHandlerWrapperTests         : Started HttpGetRespHandlerWrapperTests in 4.165 seconds (JVM running for 7.172)
+2019-03-28 16:30:03.539  INFO BIL-L-AWONG2 --- [           main] h.HttpTests                              : Starting HttpTests on BIL-L-AWONG2 with PID 9684 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 16:30:03.542 DEBUG BIL-L-AWONG2 --- [           main] h.HttpTests                              : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 16:30:03.545  INFO BIL-L-AWONG2 --- [           main] h.HttpTests                              : No active profile set, falling back to default profiles: default
+2019-03-28 16:30:06.973  INFO BIL-L-AWONG2 --- [           main] h.HttpTests                              : Started HttpTests in 3.95 seconds (JVM running for 6.488)
+2019-03-28 16:31:44.698  INFO BIL-L-AWONG2 --- [           main] h.HttpTests                              : Starting HttpTests on BIL-L-AWONG2 with PID 5788 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 16:31:44.700 DEBUG BIL-L-AWONG2 --- [           main] h.HttpTests                              : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 16:31:44.702  INFO BIL-L-AWONG2 --- [           main] h.HttpTests                              : No active profile set, falling back to default profiles: default
+2019-03-28 16:31:47.866  INFO BIL-L-AWONG2 --- [           main] h.HttpTests                              : Started HttpTests in 3.6 seconds (JVM running for 6.231)
+2019-03-28 16:32:44.763  INFO BIL-L-AWONG2 --- [           main] h.HttpTests                              : Starting HttpTests on BIL-L-AWONG2 with PID 1332 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 16:32:44.771 DEBUG BIL-L-AWONG2 --- [           main] h.HttpTests                              : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 16:32:44.773  INFO BIL-L-AWONG2 --- [           main] h.HttpTests                              : No active profile set, falling back to default profiles: default
+2019-03-28 16:32:48.041  INFO BIL-L-AWONG2 --- [           main] h.HttpTests                              : Started HttpTests in 3.721 seconds (JVM running for 6.558)
+2019-03-28 16:37:57.547  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 456 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 16:37:57.549 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 16:37:57.550  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 16:38:00.561  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 3.415 seconds (JVM running for 6.16)
+2019-03-28 16:50:03.594  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 22152 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 16:50:03.596 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 16:50:03.602  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 16:50:06.874  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 3.77 seconds (JVM running for 6.652)
+2019-03-28 16:51:09.784  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 16944 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 16:51:09.786 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 16:51:09.789  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 16:51:13.078  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 3.783 seconds (JVM running for 6.488)
+2019-03-28 16:51:42.980  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 19360 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 16:51:42.982 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 16:51:42.986  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 16:51:46.187  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 3.834 seconds (JVM running for 6.671)
+2019-03-28 16:52:25.889  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 12144 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 16:52:25.890 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 16:52:25.902  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 16:52:30.939  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 5.557 seconds (JVM running for 8.61)
+2019-03-28 16:54:21.489  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 924 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 16:54:21.490 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 16:54:21.492  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 16:54:25.287  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 4.354 seconds (JVM running for 7.25)
+2019-03-28 16:55:40.485  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 16844 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 16:55:40.488 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 16:55:40.489  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 16:55:43.690  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 3.643 seconds (JVM running for 6.513)
+2019-03-28 16:59:09.844  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 18020 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 16:59:09.846 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 16:59:09.847  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 16:59:13.035  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 3.763 seconds (JVM running for 6.579)
+2019-03-28 17:00:25.952  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 1988 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 17:00:25.959 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 17:00:25.962  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 17:00:29.138  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 3.678 seconds (JVM running for 6.388)
+2019-03-28 17:01:16.332  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 13524 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 17:01:16.334 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 17:01:16.336  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 17:01:19.401  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 3.619 seconds (JVM running for 6.322)
+2019-03-28 17:05:31.593  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 940 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 17:05:31.594 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 17:05:31.596  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 17:05:34.848  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 3.662 seconds (JVM running for 6.541)
+2019-03-28 17:05:56.727  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 1912 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 17:05:56.728 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 17:05:56.730  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 17:05:59.751  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 3.592 seconds (JVM running for 6.204)
+2019-03-28 17:07:11.007  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 14080 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 17:07:11.009 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 17:07:11.010  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 17:07:14.290  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 3.816 seconds (JVM running for 6.504)
+2019-03-28 17:13:41.695  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 17812 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 17:13:41.697 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 17:13:41.698  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 17:13:44.865  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 3.589 seconds (JVM running for 6.224)
+2019-03-28 17:14:40.025  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 18416 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 17:14:40.026 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 17:14:40.027  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 17:14:43.521  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 4.09 seconds (JVM running for 7.179)
+2019-03-28 17:15:11.154  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 1828 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 17:15:11.157 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 17:15:11.160  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 17:15:14.584  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 3.841 seconds (JVM running for 6.529)
+2019-03-28 17:16:15.519  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 20308 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 17:16:15.521 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 17:16:15.523  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 17:16:18.701  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 3.679 seconds (JVM running for 6.512)
+2019-03-28 17:22:24.186  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Starting WebSocketTests on BIL-L-AWONG2 with PID 21436 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 17:22:24.187 DEBUG BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 17:22:24.189  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : No active profile set, falling back to default profiles: default
+2019-03-28 17:22:27.615  INFO BIL-L-AWONG2 --- [           main] h.WebSocketTests                         : Started WebSocketTests in 3.952 seconds (JVM running for 6.934)
+2019-03-28 17:25:07.209  INFO BIL-L-AWONG2 --- [           main] h.GreetingControllerTests                : Starting GreetingControllerTests on BIL-L-AWONG2 with PID 1720 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 17:25:07.211 DEBUG BIL-L-AWONG2 --- [           main] h.GreetingControllerTests                : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 17:25:07.212  INFO BIL-L-AWONG2 --- [           main] h.GreetingControllerTests                : No active profile set, falling back to default profiles: default
+2019-03-28 17:25:10.423  INFO BIL-L-AWONG2 --- [           main] h.GreetingControllerTests                : Started GreetingControllerTests in 3.704 seconds (JVM running for 6.462)
+2019-03-28 17:40:03.241  INFO BIL-L-AWONG2 --- [           main] h.JsonDeserializeTests                   : Starting JsonDeserializeTests on BIL-L-AWONG2 with PID 19648 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 17:40:03.244 DEBUG BIL-L-AWONG2 --- [           main] h.JsonDeserializeTests                   : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 17:40:03.248  INFO BIL-L-AWONG2 --- [           main] h.JsonDeserializeTests                   : No active profile set, falling back to default profiles: default
+2019-03-28 17:40:06.270  INFO BIL-L-AWONG2 --- [           main] h.JsonDeserializeTests                   : Started JsonDeserializeTests in 3.447 seconds (JVM running for 6.364)
+2019-03-28 17:40:49.489  INFO BIL-L-AWONG2 --- [           main] h.JsonDeserializeTests                   : Starting JsonDeserializeTests on BIL-L-AWONG2 with PID 14420 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 17:40:49.490 DEBUG BIL-L-AWONG2 --- [           main] h.JsonDeserializeTests                   : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 17:40:49.492  INFO BIL-L-AWONG2 --- [           main] h.JsonDeserializeTests                   : No active profile set, falling back to default profiles: default
+2019-03-28 17:40:53.945  INFO BIL-L-AWONG2 --- [           main] h.JsonDeserializeTests                   : Started JsonDeserializeTests in 5.035 seconds (JVM running for 7.905)
+2019-03-28 17:41:35.638  INFO BIL-L-AWONG2 --- [           main] h.JsonDeserializeTests                   : Starting JsonDeserializeTests on BIL-L-AWONG2 with PID 18028 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 17:41:35.639 DEBUG BIL-L-AWONG2 --- [           main] h.JsonDeserializeTests                   : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 17:41:35.641  INFO BIL-L-AWONG2 --- [           main] h.JsonDeserializeTests                   : No active profile set, falling back to default profiles: default
+2019-03-28 17:41:39.153  INFO BIL-L-AWONG2 --- [           main] h.JsonDeserializeTests                   : Started JsonDeserializeTests in 4.122 seconds (JVM running for 6.609)
+2019-03-28 17:42:20.531  INFO BIL-L-AWONG2 --- [           main] h.JsonDeserializeTests                   : Starting JsonDeserializeTests on BIL-L-AWONG2 with PID 20920 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 17:42:20.533 DEBUG BIL-L-AWONG2 --- [           main] h.JsonDeserializeTests                   : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 17:42:20.535  INFO BIL-L-AWONG2 --- [           main] h.JsonDeserializeTests                   : No active profile set, falling back to default profiles: default
+2019-03-28 17:42:23.646  INFO BIL-L-AWONG2 --- [           main] h.JsonDeserializeTests                   : Started JsonDeserializeTests in 3.783 seconds (JVM running for 6.701)
+2019-03-28 17:42:44.586  INFO BIL-L-AWONG2 --- [           main] h.JsonDeserializeTests                   : Starting JsonDeserializeTests on BIL-L-AWONG2 with PID 21596 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 17:42:44.588 DEBUG BIL-L-AWONG2 --- [           main] h.JsonDeserializeTests                   : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 17:42:44.589  INFO BIL-L-AWONG2 --- [           main] h.JsonDeserializeTests                   : No active profile set, falling back to default profiles: default
+2019-03-28 17:42:47.754  INFO BIL-L-AWONG2 --- [           main] h.JsonDeserializeTests                   : Started JsonDeserializeTests in 3.55 seconds (JVM running for 6.188)
+2019-03-28 17:47:11.768 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Application Started...
+2019-03-28 17:47:13.146  INFO BIL-L-AWONG2 --- [           main] h.Application                            : Starting Application on BIL-L-AWONG2 with PID 2200 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-28 17:47:13.149 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-28 17:47:13.152  INFO BIL-L-AWONG2 --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-03-28 17:47:17.879  INFO BIL-L-AWONG2 --- [           main] h.Application                            : Started Application in 5.962 seconds (JVM running for 21.097)

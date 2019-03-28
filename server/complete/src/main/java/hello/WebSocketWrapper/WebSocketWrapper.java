@@ -26,7 +26,7 @@ Todo: better Logging.
  *  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
  *  OTHER DEALINGS IN THE SOFTWARE.
  */
-package hello;
+package hello.WebSocketWrapper;
 
 import java.net.URI;
 import java.net.URISyntaxException;
@@ -40,7 +40,6 @@ import org.java_websocket.handshake.ServerHandshake;
 
 /** This example demonstrates how to create a websocket connection to a server. Only the most important callbacks are overloaded. */
 public class WebSocketWrapper extends WebSocketClient {
-
     public WebSocketWrapper(URI serverUri , Draft draft ) {
         super( serverUri, draft );
     }

@@ -18,8 +18,7 @@ public class VadMain {
         } catch(Exception e){
             return;
         }
-
-    }
+    };
 
     public long getId() {
         return id;
