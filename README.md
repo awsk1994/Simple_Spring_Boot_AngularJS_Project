@@ -29,9 +29,11 @@ Coming soon...
      - Multi-threading
      - Performance Opt.
      - Internet API calls:
-	 - [HIGH]Concurrent Internet connection
+	 - [HIGH] Concurrent Internet connection (Connection Manager)
             - Tutorial https://www.baeldung.com/java-http-request
             - connection manager: https://hc.apache.org/httpcomponents-client-4.5.x/tutorial/html/connmgmt.html
+     - [HIGH] Event Listener for child thread
+     
      - Websocket 
             - need more research on correct way to test ws sockets.
             - add logger to websocket
