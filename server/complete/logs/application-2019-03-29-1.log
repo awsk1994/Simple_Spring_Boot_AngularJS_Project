@@ -1,0 +1,8 @@
+2019-03-29 10:49:34.039  INFO BIL-L-AWONG2 --- [           main] h.HttpPoolingConnectionManagerTest       : Starting HttpPoolingConnectionManagerTest on BIL-L-AWONG2 with PID 9680 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-29 10:49:34.053 DEBUG BIL-L-AWONG2 --- [           main] h.HttpPoolingConnectionManagerTest       : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-29 10:49:34.055  INFO BIL-L-AWONG2 --- [           main] h.HttpPoolingConnectionManagerTest       : No active profile set, falling back to default profiles: default
+2019-03-29 10:49:40.380  INFO BIL-L-AWONG2 --- [           main] h.HttpPoolingConnectionManagerTest       : Started HttpPoolingConnectionManagerTest in 7.403 seconds (JVM running for 11.272)
+2019-03-29 11:11:25.382  INFO BIL-L-AWONG2 --- [           main] h.HttpPoolingConnectionManagerTest       : Starting HttpPoolingConnectionManagerTest on BIL-L-AWONG2 with PID 10748 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-03-29 11:11:25.387 DEBUG BIL-L-AWONG2 --- [           main] h.HttpPoolingConnectionManagerTest       : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-03-29 11:11:25.389  INFO BIL-L-AWONG2 --- [           main] h.HttpPoolingConnectionManagerTest       : No active profile set, falling back to default profiles: default
+2019-03-29 11:11:31.896  INFO BIL-L-AWONG2 --- [           main] h.HttpPoolingConnectionManagerTest       : Started HttpPoolingConnectionManagerTest in 7.463 seconds (JVM running for 12.914)

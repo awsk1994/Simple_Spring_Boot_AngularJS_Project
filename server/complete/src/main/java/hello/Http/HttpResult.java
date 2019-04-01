@@ -14,7 +14,7 @@ public class HttpResult {
     public HttpResult(String status, String details) {
         this.status = status;
         this.details = details;
-    };
+    }
 
     /* Response is based on how many get<Key> methods you have. */
 

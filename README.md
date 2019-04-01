@@ -28,12 +28,15 @@ Coming soon...
  - Server:
      - Multi-threading
      - Performance Opt.
-     - Internet API calls:
-	 - [HIGH] Concurrent Internet connection (Connection Manager)
-            - Tutorial https://www.baeldung.com/java-http-request
-            - connection manager: https://hc.apache.org/httpcomponents-client-4.5.x/tutorial/html/connmgmt.html
-     - [HIGH] Event Listener for child thread
      
+     - [HIGH] Connection Manager's GET thread -> what happens if they update person class rapidly? Synchronization problem?
+         - this.person.statusUpdate(response.toString());       // TODO: throwing exception - need to figure out why.
+         - update documentation on this
+         - create a class out of this.
+     
+     - [HIGH] add nice diagram of the architecture.
+
+
      - Websocket 
             - need more research on correct way to test ws sockets.
             - add logger to websocket
