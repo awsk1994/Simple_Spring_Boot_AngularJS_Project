@@ -14,6 +14,7 @@ import org.apache.logging.log4j.Logger;
 public class Application {
     private static final Logger logger = LogManager.getLogger(Application.class);
 
+
     public static void main(String[] args) {
         logger.debug("Application Started...");
         SpringApplication.run(Application.class, args);

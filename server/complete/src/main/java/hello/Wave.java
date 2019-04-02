@@ -1,11 +1,10 @@
 package hello;
 
-public class VadMain {
-
+public class Wave {
     private final long id;
     private String content;
 
-    public VadMain(long id, String content) {
+    public Wave(long id, String content) {
         this.id = id;
         this.content = content;
     };
@@ -19,12 +18,4 @@ public class VadMain {
             return;
         }
     };
-
-    public long getId() {
-        return id;
-    }
-
-    public String getContent() {
-        return content;
-    }   // this is the string that gets returned to UI.
 }

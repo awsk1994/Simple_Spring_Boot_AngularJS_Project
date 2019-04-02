@@ -18,6 +18,12 @@ public class GreetingController {
     @ResponseBody
     public Greeting greeting(@RequestParam(value="name", defaultValue="World") String name) {
         System.out.println("/greetings | " + System.currentTimeMillis());
+        try{
+            Thread.sleep(10 * 1000);
+        } catch (Exception e){
+            e.printStackTrace();
+        }
+
         return new Greeting(counter.incrementAndGet(),
                             String.format(template, name));
     };
