@@ -51,3 +51,8 @@ Coming soon...
 
  - General:
      - Tidy up files
+
+
+## Error Message notes
+"error while storign mojo status maven" -> try removing the 'target' folder.
+
