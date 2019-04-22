@@ -1,0 +1,27 @@
+[
+  {
+    "username": "agent1",
+    "password": "password",
+    "extension": 123
+  },
+  {
+    "username": "agent2",
+    "password": "password",
+    "extension": 123
+  },
+  {
+    "username": "agent3",
+    "password": "password",
+    "extension": 123
+  },
+  {
+    "username": "agent1@empirix.com",
+    "password": "!Empirix123",
+    "extension": 1234567890
+  },
+  {
+    "username": "agent5",
+    "password": "password",
+    "extension": 123
+  }
+]

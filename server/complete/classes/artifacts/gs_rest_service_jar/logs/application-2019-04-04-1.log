@@ -1,0 +1,5 @@
+2019-04-04 17:31:23.582 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Application Started...
+2019-04-04 17:31:24.011  INFO BIL-L-AWONG2 --- [           main] h.Application                            : Starting Application on BIL-L-AWONG2 with PID 17948 (C:\Users\awong\Perforce\awong_BIL-L-AWONG2_3184\Preempt\VAD\2019\NICE\server\complete\classes\artifacts\gs_rest_service_jar\gs-rest-service.jar started by awong in c:\Users\awong\Perforce\awong_BIL-L-AWONG2_3184\Preempt\VAD\2019\NICE\server\complete\classes\artifacts\gs_rest_service_jar)
+2019-04-04 17:31:24.012 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Running with Spring Boot, Spring
+2019-04-04 17:31:24.013  INFO BIL-L-AWONG2 --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-04 17:31:27.739  INFO BIL-L-AWONG2 --- [           main] h.Application                            : Started Application in 4.025 seconds (JVM running for 5.283)

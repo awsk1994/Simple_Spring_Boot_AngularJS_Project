@@ -1,0 +1,19 @@
+2019-04-02 12:02:17.587 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Application Started...
+2019-04-02 12:02:18.620  INFO BIL-L-AWONG2 --- [           main] h.Application                            : Starting Application on BIL-L-AWONG2 with PID 17232 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-04-02 12:02:18.623 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-02 12:02:18.624  INFO BIL-L-AWONG2 --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-02 12:02:23.789  INFO BIL-L-AWONG2 --- [           main] h.Application                            : Started Application in 6.035 seconds (JVM running for 17.566)
+2019-04-02 12:05:18.928 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Application Started...
+2019-04-02 12:05:19.830  INFO BIL-L-AWONG2 --- [           main] h.Application                            : Starting Application on BIL-L-AWONG2 with PID 18016 (started by awong in C:\Users\awong\Desktop\Alex Wong\github\Simple_Spring_Boot_AngularJS_Project\server\complete)
+2019-04-02 12:05:19.836 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-02 12:05:19.841  INFO BIL-L-AWONG2 --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-02 12:05:22.929  INFO BIL-L-AWONG2 --- [           main] h.Application                            : Started Application in 3.872 seconds (JVM running for 11.071)
+2019-04-04 17:49:08.585 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Application Started...
+2019-04-04 17:49:09.512  INFO BIL-L-AWONG2 --- [           main] h.Application                            : Starting Application on BIL-L-AWONG2 with PID 16420 (C:\Users\awong\Perforce\awong_BIL-L-AWONG2_3184\Preempt\VAD\2019\NICE\server\complete\target\classes started by awong in C:\Users\awong\Perforce\awong_BIL-L-AWONG2_3184\Preempt\VAD\2019\NICE\server\complete)
+2019-04-04 17:49:09.514 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-04 17:49:09.515  INFO BIL-L-AWONG2 --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-04 17:49:33.147 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Application Started...
+2019-04-04 17:49:34.196  INFO BIL-L-AWONG2 --- [           main] h.Application                            : Starting Application on BIL-L-AWONG2 with PID 1576 (C:\Users\awong\Perforce\awong_BIL-L-AWONG2_3184\Preempt\VAD\2019\NICE\server\complete\target\classes started by awong in C:\Users\awong\Perforce\awong_BIL-L-AWONG2_3184\Preempt\VAD\2019\NICE\server\complete)
+2019-04-04 17:49:34.202 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-04 17:49:34.203  INFO BIL-L-AWONG2 --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-04 17:49:38.268  INFO BIL-L-AWONG2 --- [           main] h.Application                            : Started Application in 5.01 seconds (JVM running for 15.266)

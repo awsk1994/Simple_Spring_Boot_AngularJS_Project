@@ -1,0 +1,195 @@
+2019-04-02 12:02:18.695  INFO BIL-L-AWONG2 --- [           main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@6bfa4748: startup date [Tue Apr 02 12:02:18 EDT 2019]; root of context hierarchy
+2019-04-02 12:02:21.861  INFO BIL-L-AWONG2 --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2019-04-02 12:02:21.921  INFO BIL-L-AWONG2 --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2019-04-02 12:02:21.954  INFO BIL-L-AWONG2 --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2019-04-02 12:02:21.969  INFO BIL-L-AWONG2 --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet Engine: Apache Tomcat/8.5.34
+2019-04-02 12:02:22.002  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.a.c.c.AprLifecycleListener             : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_201\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\RSA SecurID Token Common;C:\Program Files\RSA SecurID Token Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\CheckPoint\Endpoint Security\Endpoint Common\bin;C:\Program Files\nodejs\;C:\Program Files\Perforce\;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Program Files\Git\cmd;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\awong\AppData\Local\Microsoft\WindowsApps;C:\Users\awong\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\awong\AppData\Roaming\npm;C:\Program Files\apache-maven-3.6.0-bin\apache-maven-3.6.0\bin;;C:\Users\awong\AppData\Local\Programs\Fiddler;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;.]
+2019-04-02 12:02:22.268  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2019-04-02 12:02:22.275  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.s.w.c.ContextLoader                    : Root WebApplicationContext: initialization completed in 3591 ms
+2019-04-02 12:02:22.417  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.s.b.w.s.ServletRegistrationBean        : Servlet dispatcherServlet mapped to [/]
+2019-04-02 12:02:22.428  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.s.b.w.s.FilterRegistrationBean         : Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-04-02 12:02:22.428  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.s.b.w.s.FilterRegistrationBean         : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-04-02 12:02:22.430  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.s.b.w.s.FilterRegistrationBean         : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-04-02 12:02:22.430  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.s.b.w.s.FilterRegistrationBean         : Mapping filter: 'requestContextFilter' to: [/*]
+2019-04-02 12:02:22.701  INFO BIL-L-AWONG2 --- [           main] o.s.w.s.h.SimpleUrlHandlerMapping        : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-04-02 12:02:23.036  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@6bfa4748: startup date [Tue Apr 02 12:02:18 EDT 2019]; root of context hierarchy
+2019-04-02 12:02:23.216  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/greeting],methods=[GET]}" onto public hello.Greeting hello.GreetingController.greeting(java.lang.String)
+2019-04-02 12:02:23.235  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/runTest]}" onto public hello.HttpResponse.HttpResult hello.WaveController.vadMain(java.lang.String)
+2019-04-02 12:02:23.237  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-04-02 12:02:23.251  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-02 12:02:23.316  INFO BIL-L-AWONG2 --- [           main] o.s.w.s.h.SimpleUrlHandlerMapping        : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-04-02 12:02:23.320  INFO BIL-L-AWONG2 --- [           main] o.s.w.s.h.SimpleUrlHandlerMapping        : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-04-02 12:02:23.659  INFO BIL-L-AWONG2 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2019-04-02 12:02:23.701  INFO BIL-L-AWONG2 --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2019-04-02 12:02:23.742  INFO BIL-L-AWONG2 --- [           main] o.a.t.u.n.NioSelectorPool                : Using a shared selector for servlet write/read
+2019-04-02 12:02:23.783  INFO BIL-L-AWONG2 --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-02 12:02:58.880  INFO BIL-L-AWONG2 --- [nio-8080-exec-1] o.a.c.c.C.[.[.[/]                        : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-04-02 12:02:58.882  INFO BIL-L-AWONG2 --- [nio-8080-exec-1] o.s.w.s.DispatcherServlet                : FrameworkServlet 'dispatcherServlet': initialization started
+2019-04-02 12:02:58.927  INFO BIL-L-AWONG2 --- [nio-8080-exec-1] o.s.w.s.DispatcherServlet                : FrameworkServlet 'dispatcherServlet': initialization completed in 45 ms
+2019-04-02 12:05:08.796  INFO BIL-L-AWONG2 --- [       Thread-4] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@6bfa4748: startup date [Tue Apr 02 12:02:18 EDT 2019]; root of context hierarchy
+2019-04-02 12:05:08.804  INFO BIL-L-AWONG2 --- [       Thread-4] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2019-04-02 12:05:19.936  INFO BIL-L-AWONG2 --- [           main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@254ee207: startup date [Tue Apr 02 12:05:19 EDT 2019]; root of context hierarchy
+2019-04-02 12:05:21.546  INFO BIL-L-AWONG2 --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2019-04-02 12:05:21.591  INFO BIL-L-AWONG2 --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2019-04-02 12:05:21.607  INFO BIL-L-AWONG2 --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2019-04-02 12:05:21.607  INFO BIL-L-AWONG2 --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet Engine: Apache Tomcat/8.5.34
+2019-04-02 12:05:21.633  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.a.c.c.AprLifecycleListener             : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_201\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\RSA SecurID Token Common;C:\Program Files\RSA SecurID Token Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\CheckPoint\Endpoint Security\Endpoint Common\bin;C:\Program Files\nodejs\;C:\Program Files\Perforce\;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Program Files\Git\cmd;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\awong\AppData\Local\Microsoft\WindowsApps;C:\Users\awong\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\awong\AppData\Roaming\npm;C:\Program Files\apache-maven-3.6.0-bin\apache-maven-3.6.0\bin;;C:\Users\awong\AppData\Local\Programs\Fiddler;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;.]
+2019-04-02 12:05:21.813  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2019-04-02 12:05:21.818  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.s.w.c.ContextLoader                    : Root WebApplicationContext: initialization completed in 1886 ms
+2019-04-02 12:05:21.946  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.s.b.w.s.ServletRegistrationBean        : Servlet dispatcherServlet mapped to [/]
+2019-04-02 12:05:21.955  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.s.b.w.s.FilterRegistrationBean         : Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-04-02 12:05:21.958  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.s.b.w.s.FilterRegistrationBean         : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-04-02 12:05:21.959  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.s.b.w.s.FilterRegistrationBean         : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-04-02 12:05:21.959  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.s.b.w.s.FilterRegistrationBean         : Mapping filter: 'requestContextFilter' to: [/*]
+2019-04-02 12:05:22.198  INFO BIL-L-AWONG2 --- [           main] o.s.w.s.h.SimpleUrlHandlerMapping        : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-04-02 12:05:22.457  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@254ee207: startup date [Tue Apr 02 12:05:19 EDT 2019]; root of context hierarchy
+2019-04-02 12:05:22.577  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/greeting],methods=[GET]}" onto public hello.Greeting hello.GreetingController.greeting(java.lang.String)
+2019-04-02 12:05:22.590  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/runTest]}" onto public hello.HttpResponse.HttpResult hello.WaveController.vadMain(java.lang.String)
+2019-04-02 12:05:22.591  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-04-02 12:05:22.600  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-02 12:05:22.635  INFO BIL-L-AWONG2 --- [           main] o.s.w.s.h.SimpleUrlHandlerMapping        : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-04-02 12:05:22.642  INFO BIL-L-AWONG2 --- [           main] o.s.w.s.h.SimpleUrlHandlerMapping        : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-04-02 12:05:22.840  INFO BIL-L-AWONG2 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2019-04-02 12:05:22.864  INFO BIL-L-AWONG2 --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2019-04-02 12:05:22.889  INFO BIL-L-AWONG2 --- [           main] o.a.t.u.n.NioSelectorPool                : Using a shared selector for servlet write/read
+2019-04-02 12:05:22.922  INFO BIL-L-AWONG2 --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-02 12:05:31.039  INFO BIL-L-AWONG2 --- [nio-8080-exec-1] o.a.c.c.C.[.[.[/]                        : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-04-02 12:05:31.040  INFO BIL-L-AWONG2 --- [nio-8080-exec-1] o.s.w.s.DispatcherServlet                : FrameworkServlet 'dispatcherServlet': initialization started
+2019-04-02 12:05:31.073  INFO BIL-L-AWONG2 --- [nio-8080-exec-1] o.s.w.s.DispatcherServlet                : FrameworkServlet 'dispatcherServlet': initialization completed in 32 ms
+2019-04-02 13:11:46.708  INFO BIL-L-AWONG2 --- [       Thread-4] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@254ee207: startup date [Tue Apr 02 12:05:19 EDT 2019]; root of context hierarchy
+2019-04-02 13:11:46.811  INFO BIL-L-AWONG2 --- [       Thread-4] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2019-04-04 17:49:09.585  INFO BIL-L-AWONG2 --- [           main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@338cf30e: startup date [Thu Apr 04 17:49:09 EDT 2019]; root of context hierarchy
+2019-04-04 17:49:11.515  INFO BIL-L-AWONG2 --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2019-04-04 17:49:11.549  INFO BIL-L-AWONG2 --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2019-04-04 17:49:11.567  INFO BIL-L-AWONG2 --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2019-04-04 17:49:11.568  INFO BIL-L-AWONG2 --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet Engine: Apache Tomcat/8.5.34
+2019-04-04 17:49:11.587  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.a.c.c.AprLifecycleListener             : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_201\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\RSA SecurID Token Common;C:\Program Files\RSA SecurID Token Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\CheckPoint\Endpoint Security\Endpoint Common\bin;C:\Program Files\nodejs\;C:\Program Files\Perforce\;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Program Files\Git\cmd;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\awong\AppData\Local\Microsoft\WindowsApps;C:\Users\awong\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\awong\AppData\Roaming\npm;C:\Program Files\apache-maven-3.6.0-bin\apache-maven-3.6.0\bin;;C:\Users\awong\AppData\Local\Programs\Fiddler;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;.]
+2019-04-04 17:49:11.734  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2019-04-04 17:49:11.735  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.s.w.c.ContextLoader                    : Root WebApplicationContext: initialization completed in 2163 ms
+2019-04-04 17:49:11.875  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.s.b.w.s.ServletRegistrationBean        : Servlet dispatcherServlet mapped to [/]
+2019-04-04 17:49:11.880  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.s.b.w.s.FilterRegistrationBean         : Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-04-04 17:49:11.882  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.s.b.w.s.FilterRegistrationBean         : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-04-04 17:49:11.883  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.s.b.w.s.FilterRegistrationBean         : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-04-04 17:49:11.883  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.s.b.w.s.FilterRegistrationBean         : Mapping filter: 'requestContextFilter' to: [/*]
+2019-04-04 17:49:11.983  INFO BIL-L-AWONG2 --- [           main] o.s.w.s.s.s.WebSocketHandlerMapping      : Mapped URL path [/socket] onto handler of type [class org.springframework.web.socket.server.support.WebSocketHttpRequestHandler]
+2019-04-04 17:49:12.126  INFO BIL-L-AWONG2 --- [           main] o.s.w.s.h.SimpleUrlHandlerMapping        : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-04-04 17:49:12.389  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@338cf30e: startup date [Thu Apr 04 17:49:09 EDT 2019]; root of context hierarchy
+2019-04-04 17:49:12.513  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/agent/start],methods=[POST]}" onto public hello.HttpResponse.HttpResult hello.Agent.AgentController.startAgent(java.lang.String)
+2019-04-04 17:49:12.516  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/agents/start],methods=[POST]}" onto public hello.HttpResponse.HttpResult hello.Agent.AgentController.startAgents(java.lang.String)
+2019-04-04 17:49:12.517  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/agent/add],methods=[POST]}" onto public hello.HttpResponse.HttpResult hello.Agent.AgentController.AddAgent(java.lang.String,java.lang.String,java.lang.String)
+2019-04-04 17:49:12.519  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/agents/stop],methods=[POST]}" onto public hello.HttpResponse.HttpResult hello.Agent.AgentController.stopAgents(java.lang.String)
+2019-04-04 17:49:12.520  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/agent/stop],methods=[POST]}" onto public hello.HttpResponse.HttpResult hello.Agent.AgentController.stopAgent(java.lang.String)
+2019-04-04 17:49:12.520  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/socket/sample-agents],methods=[GET]}" onto public hello.HttpResponse.HttpResult hello.Agent.AgentController.SendSampleAgents()
+2019-04-04 17:49:12.521  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/socket/send],methods=[GET]}" onto public hello.HttpResponse.HttpResult hello.Agent.AgentController.SendSocketMsg(java.lang.String)
+2019-04-04 17:49:12.523  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/socket/sample-agent],methods=[GET]}" onto public hello.HttpResponse.HttpResult hello.Agent.AgentController.SendSampleAgent(java.lang.String)
+2019-04-04 17:49:12.524  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/agent/{idx}/info],methods=[GET]}" onto public hello.HttpResponse.HttpResult hello.Agent.AgentController.GetAgentInfo(java.lang.String)
+2019-04-04 17:49:12.525  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/agents/info],methods=[GET]}" onto public hello.HttpResponse.HttpResult hello.Agent.AgentController.GetAgentsInfo()
+2019-04-04 17:49:12.526  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/agents/active/info],methods=[GET]}" onto public hello.HttpResponse.HttpResult hello.Agent.AgentController.GetActiveAgentsInfo()
+2019-04-04 17:49:12.530  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-04-04 17:49:12.532  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-04 17:49:12.578  INFO BIL-L-AWONG2 --- [           main] o.s.w.s.h.SimpleUrlHandlerMapping        : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-04-04 17:49:12.579  INFO BIL-L-AWONG2 --- [           main] o.s.w.s.h.SimpleUrlHandlerMapping        : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-04-04 17:49:12.803  INFO BIL-L-AWONG2 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2019-04-04 17:49:12.815  INFO BIL-L-AWONG2 --- [           main] o.s.c.s.DefaultLifecycleProcessor        : Starting beans in phase 2147483647
+2019-04-04 17:49:12.824  INFO BIL-L-AWONG2 --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2019-04-04 17:49:12.836 ERROR BIL-L-AWONG2 --- [           main] o.a.c.c.StandardService                  : Failed to start connector [Connector[HTTP/1.1-8080]]
+org.apache.catalina.LifecycleException: Failed to start component [Connector[HTTP/1.1-8080]]
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:167)
+	at org.apache.catalina.core.StandardService.addConnector(StandardService.java:225)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.addPreviouslyRemovedConnectors(TomcatWebServer.java:256)
+	at org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:198)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.startWebServer(ServletWebServerApplicationContext.java:300)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.finishRefresh(ServletWebServerApplicationContext.java:162)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:553)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:780)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:412)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:333)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1277)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1265)
+	at hello.Application.main(Application.java:23)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.maven.AbstractRunMojo$LaunchRunner.run(AbstractRunMojo.java:497)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: org.apache.catalina.LifecycleException: Protocol handler start failed
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1020)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	... 19 more
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:219)
+	at org.apache.tomcat.util.net.AbstractEndpoint.start(AbstractEndpoint.java:1151)
+	at org.apache.coyote.AbstractProtocol.start(AbstractProtocol.java:591)
+	at org.apache.catalina.connector.Connector.startInternal(Connector.java:1018)
+	... 20 more
+2019-04-04 17:49:12.853  INFO BIL-L-AWONG2 --- [           main] o.a.c.h.Http11NioProtocol                : Pausing ProtocolHandler ["http-nio-8080"]
+2019-04-04 17:49:12.855  INFO BIL-L-AWONG2 --- [           main] o.a.c.c.StandardService                  : Stopping service [Tomcat]
+2019-04-04 17:49:12.879  INFO BIL-L-AWONG2 --- [           main] o.a.c.u.LifecycleBase                    : The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+2019-04-04 17:49:12.883  INFO BIL-L-AWONG2 --- [           main] o.a.c.h.Http11NioProtocol                : Stopping ProtocolHandler ["http-nio-8080"]
+2019-04-04 17:49:12.884  INFO BIL-L-AWONG2 --- [           main] o.a.c.h.Http11NioProtocol                : Destroying ProtocolHandler ["http-nio-8080"]
+2019-04-04 17:49:12.896  INFO BIL-L-AWONG2 --- [           main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-04-04 17:49:12.901 ERROR BIL-L-AWONG2 --- [           main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 8080 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 8080, or configure this application to listen on another port.
+
+2019-04-04 17:49:12.907  INFO BIL-L-AWONG2 --- [           main] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@338cf30e: startup date [Thu Apr 04 17:49:09 EDT 2019]; root of context hierarchy
+2019-04-04 17:49:12.911  INFO BIL-L-AWONG2 --- [           main] o.s.c.s.DefaultLifecycleProcessor        : Stopping beans in phase 2147483647
+2019-04-04 17:49:12.926  INFO BIL-L-AWONG2 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2019-04-04 17:49:34.333  INFO BIL-L-AWONG2 --- [           main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@f6d5dbd: startup date [Thu Apr 04 17:49:34 EDT 2019]; root of context hierarchy
+2019-04-04 17:49:36.684  INFO BIL-L-AWONG2 --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2019-04-04 17:49:36.723  INFO BIL-L-AWONG2 --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2019-04-04 17:49:36.743  INFO BIL-L-AWONG2 --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2019-04-04 17:49:36.744  INFO BIL-L-AWONG2 --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet Engine: Apache Tomcat/8.5.34
+2019-04-04 17:49:36.761  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.a.c.c.AprLifecycleListener             : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_201\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\RSA SecurID Token Common;C:\Program Files\RSA SecurID Token Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\CheckPoint\Endpoint Security\Endpoint Common\bin;C:\Program Files\nodejs\;C:\Program Files\Perforce\;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Program Files\Git\cmd;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\awong\AppData\Local\Microsoft\WindowsApps;C:\Users\awong\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\awong\AppData\Roaming\npm;C:\Program Files\apache-maven-3.6.0-bin\apache-maven-3.6.0\bin;;C:\Users\awong\AppData\Local\Programs\Fiddler;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;.]
+2019-04-04 17:49:36.908  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2019-04-04 17:49:36.909  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.s.w.c.ContextLoader                    : Root WebApplicationContext: initialization completed in 2613 ms
+2019-04-04 17:49:37.032  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.s.b.w.s.ServletRegistrationBean        : Servlet dispatcherServlet mapped to [/]
+2019-04-04 17:49:37.037  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.s.b.w.s.FilterRegistrationBean         : Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-04-04 17:49:37.038  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.s.b.w.s.FilterRegistrationBean         : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-04-04 17:49:37.039  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.s.b.w.s.FilterRegistrationBean         : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-04-04 17:49:37.039  INFO BIL-L-AWONG2 --- [ost-startStop-1] o.s.b.w.s.FilterRegistrationBean         : Mapping filter: 'requestContextFilter' to: [/*]
+2019-04-04 17:49:37.175  INFO BIL-L-AWONG2 --- [           main] o.s.w.s.s.s.WebSocketHandlerMapping      : Mapped URL path [/socket] onto handler of type [class org.springframework.web.socket.server.support.WebSocketHttpRequestHandler]
+2019-04-04 17:49:37.314  INFO BIL-L-AWONG2 --- [           main] o.s.w.s.h.SimpleUrlHandlerMapping        : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-04-04 17:49:37.559  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@f6d5dbd: startup date [Thu Apr 04 17:49:34 EDT 2019]; root of context hierarchy
+2019-04-04 17:49:37.679  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/agent/start],methods=[POST]}" onto public hello.HttpResponse.HttpResult hello.Agent.AgentController.startAgent(java.lang.String)
+2019-04-04 17:49:37.681  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/agent/stop],methods=[POST]}" onto public hello.HttpResponse.HttpResult hello.Agent.AgentController.stopAgent(java.lang.String)
+2019-04-04 17:49:37.682  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/agents/stop],methods=[POST]}" onto public hello.HttpResponse.HttpResult hello.Agent.AgentController.stopAgents(java.lang.String)
+2019-04-04 17:49:37.683  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/agent/{idx}/info],methods=[GET]}" onto public hello.HttpResponse.HttpResult hello.Agent.AgentController.GetAgentInfo(java.lang.String)
+2019-04-04 17:49:37.684  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/agents/start],methods=[POST]}" onto public hello.HttpResponse.HttpResult hello.Agent.AgentController.startAgents(java.lang.String)
+2019-04-04 17:49:37.685  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/socket/sample-agents],methods=[GET]}" onto public hello.HttpResponse.HttpResult hello.Agent.AgentController.SendSampleAgents()
+2019-04-04 17:49:37.686  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/socket/sample-agent],methods=[GET]}" onto public hello.HttpResponse.HttpResult hello.Agent.AgentController.SendSampleAgent(java.lang.String)
+2019-04-04 17:49:37.687  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/socket/send],methods=[GET]}" onto public hello.HttpResponse.HttpResult hello.Agent.AgentController.SendSocketMsg(java.lang.String)
+2019-04-04 17:49:37.688  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/agents/info],methods=[GET]}" onto public hello.HttpResponse.HttpResult hello.Agent.AgentController.GetAgentsInfo()
+2019-04-04 17:49:37.688  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/agent/add],methods=[POST]}" onto public hello.HttpResponse.HttpResult hello.Agent.AgentController.AddAgent(java.lang.String,java.lang.String,java.lang.String)
+2019-04-04 17:49:37.690  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/agents/active/info],methods=[GET]}" onto public hello.HttpResponse.HttpResult hello.Agent.AgentController.GetActiveAgentsInfo()
+2019-04-04 17:49:37.695  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-04-04 17:49:37.697  INFO BIL-L-AWONG2 --- [           main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-04-04 17:49:37.773  INFO BIL-L-AWONG2 --- [           main] o.s.w.s.h.SimpleUrlHandlerMapping        : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-04-04 17:49:37.776  INFO BIL-L-AWONG2 --- [           main] o.s.w.s.h.SimpleUrlHandlerMapping        : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-04-04 17:49:38.190  INFO BIL-L-AWONG2 --- [           main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2019-04-04 17:49:38.203  INFO BIL-L-AWONG2 --- [           main] o.s.c.s.DefaultLifecycleProcessor        : Starting beans in phase 2147483647
+2019-04-04 17:49:38.213  INFO BIL-L-AWONG2 --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2019-04-04 17:49:38.237  INFO BIL-L-AWONG2 --- [           main] o.a.t.u.n.NioSelectorPool                : Using a shared selector for servlet write/read
+2019-04-04 17:49:38.263  INFO BIL-L-AWONG2 --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path ''
+2019-04-04 17:51:27.857  INFO BIL-L-AWONG2 --- [nio-8080-exec-1] o.a.c.c.C.[.[.[/]                        : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-04-04 17:51:27.859  INFO BIL-L-AWONG2 --- [nio-8080-exec-1] o.s.w.s.DispatcherServlet                : FrameworkServlet 'dispatcherServlet': initialization started
+2019-04-04 17:51:27.927  INFO BIL-L-AWONG2 --- [nio-8080-exec-1] o.s.w.s.DispatcherServlet                : FrameworkServlet 'dispatcherServlet': initialization completed in 56 ms

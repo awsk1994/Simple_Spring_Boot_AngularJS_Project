@@ -1,8 +1,4 @@
 /*
-Todo: better Logging.
- */
-
-/*
  * Copyright (c) 2010-2019 Nathan Rajlich
  *
  *  Permission is hereby granted, free of charge, to any person

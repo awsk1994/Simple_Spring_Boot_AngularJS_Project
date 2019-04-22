@@ -1,0 +1,201 @@
+<div class="row">
+    <b>Websocket Status:</b>
+    <span ng-show="websocketStatus == 'OPEN'" style="font-weight: bold; color: green">OPEN</span>
+    <span ng-show="websocketStatus == 'CLOSING' || websocketStatus == 'CLOSED'" style="font-weight: bold; color: red">{{websocketStatus}}</span>
+    <span ng-show="websocketStatus == 'CONNECTING'" style="font-weight: bold; color: orange">CONNECTING</span>
+    <hr>
+</div>
+<div class="row">
+    <form class="form-inline">
+        <div class="form-group">
+            <label for="email">Agent(s) Selected</label>
+            <input type="text" ng-disabled="true" class="form-control" value="{{startAgentIndexs}}" id="pwd" placeholder="Agent Indexs">
+            <button class="btn" type="button" data-toggle="dropdown"  ng-click="openAgentList()">Select from list <span class="glyphicon glyphicon-modal-window"></span></button>
+            <div class="dropdown" style="display:inline-block">
+                <button ng-disabled="startAgentIndexs==null" class="btn dropdown-toggle" type="button" data-toggle="dropdown">Action
+                <span class="caret"></span></button>
+                <ul class="dropdown-menu">
+                    <li><a ng-click="startMultipleAgent(startAgentIndexs)">Start</a></li>
+                    <li><a ng-click="stopMultipleAgent(startAgentIndexs)">Stop</a></li>
+                    <li><a ng-click="getMultipleAgentState()">Get State</a></li>
+                </ul>
+            </div>
+        </div>
+    </form>
+</div>
+<div class="row">
+    <hr>
+    <h2>Dev MODE</h2>
+    <div>
+        <input type="text" ng-model="startAgentIdx"/>
+        <button ng-click="startAgent(startAgentIdx)">Start Agent</button>
+        <button ng-click="socketSampleStartAgent(startAgentIdx)">Socket Start Agent</button>
+    </div>
+    <div>
+        <input type="text" ng-model="stopAgentIdx"/>
+        <button ng-click="stopAgent(stopAgentIdx)">Stop Agent</button>
+        <button ng-click="socketSampleStopAgent(stopAgentIdx)">Socket Stop Agent</button>
+    </div>
+    <div>
+        <button ng-click="socketSampleAllAgents()">Socket All Agents</button>
+    </div>
+    <div>
+        <button ng-click="shutdown()">Shutdown</button>
+    </div>
+</div>
+<hr class="col-xs-12">
+<div class="row">
+    <div class="col-md-5">
+        <h2>Agents Summary</h2>
+        <div class="panel panel-default">
+                <!-- Default panel contents -->
+            <!-- Table -->
+            <table class="table">
+                <tr>
+                    <th bgcolor="#eee">State</th>
+                    <th bgcolor="#eee">Count</th>
+                </tr>
+                <tr>
+                    <th bgcolor="#eee">Turned On</th>
+                    <td>{{statesCounter.TURNED_ON}}</td>
+                </tr>
+                <tr>
+                    <th bgcolor="#eee">Started</th>
+                    <td>{{statesCounter.STARTED}}</td>
+                </tr>
+                <tr>
+                    <th bgcolor="#eee">Connected</th>
+                    <td>{{statesCounter.CONNECTED}}</td>
+                </tr>
+                <tr>
+                    <th bgcolor="#eee">Not Ready</th>
+                    <td>{{statesCounter.NOT_READY}}</td>
+                </tr>
+                <tr>
+                    <th bgcolor="#eee">Ready</th>
+                    <td>{{statesCounter.READY}}</td>
+                </tr>
+                <tr>
+                    <th bgcolor="#eee">Log out</th>
+                    <td>{{statesCounter.LOGOUT}}</td>
+                </tr>
+                <tr>
+                    <th bgcolor="#eee">Turned Off</th>
+                    <td>{{statesCounter.TURNED_OFF}}</td>
+                </tr>
+                <tr>
+                    <th bgcolor="#eee">Total</th>
+                    <td>{{statesCounter.TOTAL}}</td>
+                </tr>
+                                
+            </table>
+        </div>
+            
+    </div>
+</div>
+<hr class="col-xs-12">
+<h2>Agent States</h2>
+<div class="row" ng-repeat="agent in agents">
+    <div class="col-md-12" style="padding:0 20px">
+        <div class="well">
+            <div class="agent-details"  style="color:#999">
+                <span><b>idx: </b>{{agent.idx}}</span> | <span><b>Username:</b> {{agent.username}}</span> | <span><b>Extension:</b> {{agent.extension}}</span>
+                <span class=" pull-right" style="color:#000">
+                    <div class="dropdown" style="display:inline-block">
+                        <button class="btn dropdown-toggle" type="button" data-toggle="dropdown">Action
+                        <span class="caret"></span></button>
+                        <ul class="dropdown-menu">
+                            <li><a ng-click="startAgent(agent.idx)">Start</a></li>
+                            <li><a ng-click="stopAgent(agent.idx)">Stop</a></li>
+                            <li><a ng-click="getState(agent.idx)">Get State</a></li>
+                        </ul>
+                    </div>
+                </span>
+            </div>
+            <div style="margin-top:20px">
+                <div ng-show="agent.state=='READY'" class="alert alert-success"><span>{{agent.state}}</span></div>
+                <div ng-show="agent.state=='NOT_READY'" class="alert alert-warning"><span>{{agent.state}}</span></div>
+                <div ng-show="agent.state=='LOGOUT'" class="alert alert-danger"><span>{{agent.state}}</span></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <!-- Modal -->
+    <div id="myModal" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Select Agents</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <form class="form-inline">
+                                <div class="form-group">
+                                    <button class="btn" type="button" ng-click="toggleSelect()" >Select/Unselect all</button>
+                                </div>
+                                
+                                <div class="form-group">
+                                    <button class="btn" type="button" data-toggle="dropdown"  ng-click="showRange = !showRange">Select Range</button>
+                                </div>
+
+                                <div class="form-group pull-right">
+                                    <input type="text" class="form-control" ng-model="filterAgentByUserName" placeholder="Filter by user name" />
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="row" ng-show="showRange">
+                        <div class="col-md-12">
+                            <form class="form-inline">
+                                <div class="form-group">
+                                    <label>Start Idx : </label>
+                                    <input type="text" class="form-control" size="5" ng-model="range.start" />
+                                    <label>End Idx : </label>
+                                    <input type="text" class="form-control" size="5" ng-model="range.end" />
+                                    <button class="btn" ng-click="selectRangeAgents()" ng-disabled="((range.start>range.end) || (range.start<0) || (range.end<0))">Ok</button>
+                                </div>
+                                <div class="text-danger" ng-show="((range.start>range.end) && (range.start>=0 || range.end>=0))">Please enter valid value</div>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+    
+                            <div class="agentListModal">
+                                <table class="table">
+                                    <tr>
+                                        <th>Idx</th>
+                                        <th>Agent user name</th>
+                                        <th>Agent phone number</th>
+                                        <th>Selected?</th>
+                                    </tr>
+                                    <tr ng-hide="savedAgents.length>0">
+                                        <td colspan="4"> No Agents Found </td>
+                                    </tr>
+                                    <tr ng-repeat="agent in savedAgents | filter:{username:filterAgentByUserName}">
+                                        <td>{{agent.idx}}</td>
+                                        <td>{{agent.username}}</td>
+                                        <td>{{agent.phonenumber}}</td>
+                                        <td> 
+                                            <input type="checkbox" name="{{agent.idx}}" value="{{agent.idx}}" checked="agent.selected==true" ng-model="agent.selected">
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal" ng-click="selectAgentsModal()">Select Agents</button>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>

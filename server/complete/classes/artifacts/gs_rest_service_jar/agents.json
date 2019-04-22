@@ -1,0 +1,27 @@
+[
+  {
+    "username": "agent1",
+    "password": "password",
+    "extension": 123
+  },
+  {
+    "username": "agent2",
+    "password": "password",
+    "extension": 123
+  },
+  {
+    "username": "agent3",
+    "password": "password",
+    "extension": 123
+  },
+  {
+    "username": "agent4",
+    "password": "password",
+    "extension": 123
+  },
+  {
+    "username": "agent5",
+    "password": "password",
+    "extension": 123
+  }
+]

@@ -1,0 +1,245 @@
+2019-04-11 11:29:46.114 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 11:29:46.894  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 10352 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 11:29:46.902 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 11:29:46.913  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 11:29:49.948  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.712 seconds (JVM running for 13.172)
+2019-04-11 11:29:52.085 DEBUG REM-L-RVERKY --- [ts State Thread] h.Application                            : null
+2019-04-11 11:32:12.169 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 11:32:12.896  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 14832 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 11:32:12.906 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 11:32:12.912  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 11:32:15.953  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.674 seconds (JVM running for 13.248)
+2019-04-11 11:32:17.303 DEBUG REM-L-RVERKY --- [ts State Thread] h.Application                            : null
+2019-04-11 11:33:24.920 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 11:33:25.708  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 20416 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 11:33:25.711 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 11:33:25.724  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 11:33:28.620  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.585 seconds (JVM running for 13.258)
+2019-04-11 11:33:29.911 DEBUG REM-L-RVERKY --- [ts State Thread] h.Application                            : null
+2019-04-11 11:44:56.948 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 11:44:57.687  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 4968 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 11:44:57.691 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 11:44:57.694  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 11:45:00.724  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.67 seconds (JVM running for 12.239)
+2019-04-11 15:05:24.193 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 15:05:24.807  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 18684 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 15:05:24.811 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 15:05:24.814  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 15:05:27.614  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.315 seconds (JVM running for 10.869)
+2019-04-11 15:18:33.450 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 15:18:34.171  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 17536 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 15:18:34.175 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 15:18:34.178  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 15:18:36.923  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.359 seconds (JVM running for 11.233)
+2019-04-11 15:25:29.854 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 15:25:30.588  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 15572 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 15:25:30.592 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 15:25:30.595  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 15:25:33.225  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.26 seconds (JVM running for 10.992)
+2019-04-11 15:25:52.704 DEBUG REM-L-RVERKY --- [ts State Thread] h.Application                            : Server returned HTTP response code: 405 for URL: https://api-c71.nice-incontact.com/InContactAPI/services/v11.0/agents/states
+2019-04-11 15:29:14.728 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 15:29:15.420  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 15468 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 15:29:15.424 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 15:29:15.427  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 15:29:18.213  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.387 seconds (JVM running for 11.227)
+2019-04-11 15:29:36.817 DEBUG REM-L-RVERKY --- [ts State Thread] h.Application                            : Server returned HTTP response code: 405 for URL: https://api-c71.nice-incontact.com/InContactAPI/services/v11.0/agents/states
+2019-04-11 15:36:39.261 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 15:36:39.946  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 18068 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 15:36:39.950 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 15:36:39.952  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 15:36:42.666  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.313 seconds (JVM running for 11.229)
+2019-04-11 15:42:11.145 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 15:42:11.835  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 10344 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 15:42:11.838 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 15:42:11.841  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 15:42:14.548  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.307 seconds (JVM running for 11.123)
+2019-04-11 15:43:51.546 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 15:43:52.223  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 20016 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 15:43:52.227 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 15:43:52.229  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 15:43:54.872  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.227 seconds (JVM running for 10.008)
+2019-04-11 15:45:57.577 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 15:45:58.307  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 15392 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 15:45:58.311 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 15:45:58.314  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 15:46:01.030  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.348 seconds (JVM running for 11.191)
+2019-04-11 15:46:11.555 DEBUG REM-L-RVERKY --- [ts State Thread] h.Application                            : Server returned HTTP response code: 405 for URL: https://api-c71.nice-incontact.com/InContactAPI/services/v11.0/agents/states
+2019-04-11 15:53:32.871 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 15:53:33.538  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 11112 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 15:53:33.543 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 15:53:33.546  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 15:53:36.272  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.299 seconds (JVM running for 11.075)
+2019-04-11 16:25:57.143 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 16:25:57.673  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 14872 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 16:25:57.677 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 16:25:57.679  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 16:26:00.121  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 2.892 seconds (JVM running for 9.312)
+2019-04-11 16:26:44.543 DEBUG REM-L-RVERKY --- [ts State Thread] h.Application                            : org.json.JSONArray cannot be cast to org.json.JSONObject
+2019-04-11 16:33:50.957 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 16:33:51.543  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 17320 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 16:33:51.547 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 16:33:51.548  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 16:33:53.864  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 2.828 seconds (JVM running for 9.316)
+2019-04-11 16:43:10.098 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 16:43:10.715  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 18328 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 16:43:10.719 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 16:43:10.721  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 16:43:13.100  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 2.911 seconds (JVM running for 9.584)
+2019-04-11 16:43:41.520 DEBUG REM-L-RVERKY --- [ts State Thread] h.Application                            : org.json.JSONArray cannot be cast to org.json.JSONObject
+2019-04-11 16:51:50.953 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 16:51:51.613  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 17996 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 16:51:51.616 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 16:51:51.619  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 16:51:54.082  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.046 seconds (JVM running for 9.945)
+2019-04-11 16:53:40.142 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 16:53:40.761  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 4136 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 16:53:40.765 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 16:53:40.766  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 16:53:43.196  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 2.971 seconds (JVM running for 9.638)
+2019-04-11 17:35:32.823 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 17:35:33.561  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 15672 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 17:35:33.565 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 17:35:33.568  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 17:35:36.376  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.442 seconds (JVM running for 11.664)
+2019-04-11 17:37:37.973 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 17:37:38.899  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 4212 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 17:37:38.904 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 17:37:38.907  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 17:37:42.341  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 4.234 seconds (JVM running for 13.804)
+2019-04-11 17:51:05.335 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 17:51:06.167  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 5696 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 17:51:06.171 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 17:51:06.173  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 17:51:09.243  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.789 seconds (JVM running for 12.586)
+2019-04-11 17:55:38.930 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 17:55:39.738  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 14712 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 17:55:39.745 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 17:55:39.749  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 17:55:43.056  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.997 seconds (JVM running for 14.381)
+2019-04-11 18:00:41.146 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 18:00:41.997  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 15336 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 18:00:42.002 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 18:00:42.005  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 18:00:45.163  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.897 seconds (JVM running for 13.416)
+2019-04-11 18:03:00.061 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 18:03:00.992  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 15812 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 18:03:00.999 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 18:03:01.000  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 18:03:05.338  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 5.148 seconds (JVM running for 14.486)
+2019-04-11 18:04:25.880 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 18:04:26.638  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 20100 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 18:04:26.640 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 18:04:26.642  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 18:04:30.035  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 4.029 seconds (JVM running for 12.042)
+2019-04-11 18:19:49.940 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 18:19:50.654  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 16060 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 18:19:50.658 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 18:19:50.661  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 18:19:53.684  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.627 seconds (JVM running for 11.27)
+2019-04-11 18:21:12.655 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 18:21:13.336  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 8140 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 18:21:13.340 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 18:21:13.342  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 18:21:16.512  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.745 seconds (JVM running for 11.376)
+2019-04-11 18:26:57.910 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 18:26:58.744  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 20044 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 18:26:58.749 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 18:26:58.753  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 18:27:01.854  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.816 seconds (JVM running for 12.743)
+2019-04-11 18:37:23.990 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 18:37:24.864  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 2512 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 18:37:24.868 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 18:37:24.871  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 18:37:27.927  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.824 seconds (JVM running for 12.903)
+2019-04-11 18:43:14.194 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 18:43:14.833  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 18656 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 18:43:14.838 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 18:43:14.841  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 18:43:17.964  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.681 seconds (JVM running for 12.081)
+2019-04-11 18:46:38.689 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 18:46:39.374  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 18600 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 18:46:39.378 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 18:46:39.380  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 18:46:42.446  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.653 seconds (JVM running for 12.402)
+2019-04-11 18:46:58.441 DEBUG REM-L-RVERKY --- [ts State Thread] h.Application                            : java.lang.String cannot be cast to hello.Agent.AgentState
+2019-04-11 18:57:24.716 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 18:57:25.476  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 19084 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 18:57:25.480 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 18:57:25.482  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 18:57:28.765  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.918 seconds (JVM running for 12.601)
+2019-04-11 18:57:51.988 DEBUG REM-L-RVERKY --- [ts State Thread] h.Application                            : Index: 4700917, Size: 5
+2019-04-11 19:29:17.571 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 19:29:18.324  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 17320 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 19:29:18.327 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 19:29:18.329  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 19:29:21.331  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.616 seconds (JVM running for 12.413)
+2019-04-11 19:33:06.595 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 19:33:07.316  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 16220 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 19:33:07.319 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 19:33:07.321  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 19:33:10.283  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.574 seconds (JVM running for 10.939)
+2019-04-11 19:50:40.824 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 19:50:41.577  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 8080 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 19:50:41.581 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 19:50:41.584  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 19:50:44.480  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.542 seconds (JVM running for 11.69)
+2019-04-11 19:52:15.656 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 19:52:16.326  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 16800 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 19:52:16.330 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 19:52:16.332  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 19:52:19.309  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.542 seconds (JVM running for 10.649)
+2019-04-11 19:58:20.545 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Application Started...
+2019-04-11 19:58:21.386  INFO REM-L-RVERKY --- [           main] h.Application                            : Starting Application on REM-L-RVERKY with PID 15944 (C:\vad\NICE\server\complete\target\classes started by rverky in C:\vad\NICE\server\complete)
+2019-04-11 19:58:21.390 DEBUG REM-L-RVERKY --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 19:58:21.393  INFO REM-L-RVERKY --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 19:58:24.583  INFO REM-L-RVERKY --- [           main] h.Application                            : Started Application in 3.915 seconds (JVM running for 12.929)
+2019-04-11 20:55:07.597 DEBUG REM-L-RVERKY --- [ts State Thread] h.Application                            : api-c71.nice-incontact.com
+2019-04-11 16:37:30.139  INFO BIL-L-AWONG2 --- [           main] h.AgentTest                              : Starting AgentTest on BIL-L-AWONG2 with PID 17192 (started by awong in C:\Users\awong\Perforce\awong_BIL-L-AWONG2_3184\Preempt\VAD\2019\NICE\server\complete)
+2019-04-11 16:37:30.146 DEBUG BIL-L-AWONG2 --- [           main] h.AgentTest                              : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 16:37:30.148  INFO BIL-L-AWONG2 --- [           main] h.AgentTest                              : No active profile set, falling back to default profiles: default
+2019-04-11 16:37:40.472  INFO BIL-L-AWONG2 --- [           main] h.AgentTest                              : Started AgentTest in 11.332 seconds (JVM running for 16.445)
+2019-04-11 16:39:13.330  INFO BIL-L-AWONG2 --- [           main] h.AgentTest                              : Starting AgentTest on BIL-L-AWONG2 with PID 23124 (started by awong in C:\Users\awong\Perforce\awong_BIL-L-AWONG2_3184\Preempt\VAD\2019\NICE\server\complete)
+2019-04-11 16:39:13.332 DEBUG BIL-L-AWONG2 --- [           main] h.AgentTest                              : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 16:39:13.335  INFO BIL-L-AWONG2 --- [           main] h.AgentTest                              : No active profile set, falling back to default profiles: default
+2019-04-11 16:39:17.770  INFO BIL-L-AWONG2 --- [           main] h.AgentTest                              : Started AgentTest in 4.89 seconds (JVM running for 7.145)
+2019-04-11 16:39:56.123 ERROR BIL-L-AWONG2 --- [           main] h.S.ExampleClient                        : Cannot send - No connection opened. (Message = Message number 0 (this message is sent too early - doesn't get echo-ed back)).
+2019-04-11 16:39:56.215 DEBUG BIL-L-AWONG2 --- [ctReadThread-38] h.S.ExampleClient                        : WebSocket connection is open.
+2019-04-11 16:39:56.216 DEBUG BIL-L-AWONG2 --- [ctReadThread-38] h.S.DummyObj                             : Dummy whenOpen
+2019-04-11 16:39:57.124 DEBUG BIL-L-AWONG2 --- [           main] h.S.WebSocketTests                       :  --- heartbeat count: 0
+2019-04-11 16:39:58.124 DEBUG BIL-L-AWONG2 --- [           main] h.S.WebSocketTests                       :  --- heartbeat count: 1
+2019-04-11 16:39:58.143 DEBUG BIL-L-AWONG2 --- [ctReadThread-38] h.S.ExampleClient                        : Received: Message number 1
+2019-04-11 16:39:58.143 DEBUG BIL-L-AWONG2 --- [ctReadThread-38] h.S.DummyObj                             : [0] Dummy whenMessage: Message number 1
+2019-04-11 16:39:59.128 DEBUG BIL-L-AWONG2 --- [           main] h.S.WebSocketTests                       :  --- heartbeat count: 0
+2019-04-11 16:40:00.129 DEBUG BIL-L-AWONG2 --- [           main] h.S.WebSocketTests                       :  --- heartbeat count: 1
+2019-04-11 16:40:00.143 DEBUG BIL-L-AWONG2 --- [ctReadThread-38] h.S.ExampleClient                        : Received: Message number 2
+2019-04-11 16:40:00.144 DEBUG BIL-L-AWONG2 --- [ctReadThread-38] h.S.DummyObj                             : [1] Dummy whenMessage: Message number 2
+2019-04-11 16:40:01.130 DEBUG BIL-L-AWONG2 --- [           main] h.S.WebSocketTests                       :  --- heartbeat count: 0
+2019-04-11 16:40:02.130 DEBUG BIL-L-AWONG2 --- [           main] h.S.WebSocketTests                       :  --- heartbeat count: 1
+2019-04-11 16:40:02.131 DEBUG BIL-L-AWONG2 --- [           main] h.S.ExampleClient                        : onClosing
+2019-04-11 16:40:02.131  INFO BIL-L-AWONG2 --- [           main] h.S.WebSocketTests                       : Last message is: Message number 2[ counter = 2]
+2019-04-11 16:46:35.765  INFO BIL-L-AWONG2 --- [           main] h.AgentTest                              : Starting AgentTest on BIL-L-AWONG2 with PID 23248 (started by awong in C:\Users\awong\Perforce\awong_BIL-L-AWONG2_3184\Preempt\VAD\2019\NICE\server\complete)
+2019-04-11 16:46:35.767 DEBUG BIL-L-AWONG2 --- [           main] h.AgentTest                              : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 16:46:35.770  INFO BIL-L-AWONG2 --- [           main] h.AgentTest                              : No active profile set, falling back to default profiles: default
+2019-04-11 16:46:40.209  INFO BIL-L-AWONG2 --- [           main] h.AgentTest                              : Started AgentTest in 4.907 seconds (JVM running for 7.269)
+2019-04-11 16:47:18.326 ERROR BIL-L-AWONG2 --- [           main] h.S.ExampleClient                        : Cannot send - No connection opened. (Message = Message number 0 (this message is sent too early - doesn't get echo-ed back)).
+2019-04-11 16:47:18.378 DEBUG BIL-L-AWONG2 --- [ctReadThread-38] h.S.ExampleClient                        : WebSocket connection is open.
+2019-04-11 16:47:18.379 DEBUG BIL-L-AWONG2 --- [ctReadThread-38] h.S.DummyObj                             : Dummy whenOpen
+2019-04-11 16:47:19.326 DEBUG BIL-L-AWONG2 --- [           main] h.S.WebSocketTests                       :  --- heartbeat count: 0
+2019-04-11 16:47:20.327 DEBUG BIL-L-AWONG2 --- [           main] h.S.WebSocketTests                       :  --- heartbeat count: 1
+2019-04-11 16:47:20.346 DEBUG BIL-L-AWONG2 --- [ctReadThread-38] h.S.ExampleClient                        : Received: Message number 1
+2019-04-11 16:47:20.346 DEBUG BIL-L-AWONG2 --- [ctReadThread-38] h.S.DummyObj                             : [0] Dummy whenMessage: Message number 1
+2019-04-11 16:47:21.330 DEBUG BIL-L-AWONG2 --- [           main] h.S.WebSocketTests                       :  --- heartbeat count: 0
+2019-04-11 16:47:22.330 DEBUG BIL-L-AWONG2 --- [           main] h.S.WebSocketTests                       :  --- heartbeat count: 1
+2019-04-11 16:47:22.346 DEBUG BIL-L-AWONG2 --- [ctReadThread-38] h.S.ExampleClient                        : Received: Message number 2
+2019-04-11 16:47:22.346 DEBUG BIL-L-AWONG2 --- [ctReadThread-38] h.S.DummyObj                             : [1] Dummy whenMessage: Message number 2
+2019-04-11 16:47:23.331 DEBUG BIL-L-AWONG2 --- [           main] h.S.WebSocketTests                       :  --- heartbeat count: 0
+2019-04-11 16:47:24.331 DEBUG BIL-L-AWONG2 --- [           main] h.S.WebSocketTests                       :  --- heartbeat count: 1
+2019-04-11 16:47:24.333 DEBUG BIL-L-AWONG2 --- [           main] h.S.ExampleClient                        : onClosing
+2019-04-11 16:47:24.333  INFO BIL-L-AWONG2 --- [           main] h.S.WebSocketTests                       : Last message is: Message number 2[ counter = 2]
+2019-04-11 16:47:24.346 DEBUG BIL-L-AWONG2 --- [ctReadThread-38] h.S.ExampleClient                        : Connection closed by us Code: 1000 Reason: 
+2019-04-11 16:47:24.346 DEBUG BIL-L-AWONG2 --- [ctReadThread-38] h.S.DummyObj                             : Dummy whenClose
+2019-04-11 16:54:42.848 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Application Started...
+2019-04-11 16:54:43.909  INFO BIL-L-AWONG2 --- [           main] h.Application                            : Starting Application on BIL-L-AWONG2 with PID 16148 (C:\Users\awong\Perforce\awong_BIL-L-AWONG2_3184\Preempt\VAD\2019\NICE\server\complete\target\classes started by awong in C:\Users\awong\Perforce\awong_BIL-L-AWONG2_3184\Preempt\VAD\2019\NICE\server\complete)
+2019-04-11 16:54:43.925 DEBUG BIL-L-AWONG2 --- [           main] h.Application                            : Running with Spring Boot v2.0.5.RELEASE, Spring v5.0.9.RELEASE
+2019-04-11 16:54:43.929  INFO BIL-L-AWONG2 --- [           main] h.Application                            : No active profile set, falling back to default profiles: default
+2019-04-11 16:54:47.924  INFO BIL-L-AWONG2 --- [           main] h.Application                            : Started Application in 4.85 seconds (JVM running for 15.156)
